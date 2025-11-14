@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,total_amount,status,payment_method
+1,114,2024-08-05,1245.48,Shipped,Cash on Delivery
+2,540,2024-09-03,3058.7,Shipped,Credit Card
+3,226,2024-07-03,387.8,Delivered,Credit Card
+4,8,2024-10-29,67.34,Processing,PayPal
+5,969,2024-11-02,542.1,Processing,Debit Card
+6,783,2024-09-23,988.52,Shipped,PayPal
+7,336,2024-07-25,1925.92,Pending,Credit Card
+8,510,2024-11-16,810.26,Delivered,Debit Card
+9,133,2023-04-26,362.04,Delivered,Debit Card
+10,513,2024-10-13,4250.96,Cancelled,PayPal
+11,74,2024-10-13,1500.16,Delivered,Credit Card
+12,447,2024-08-04,2119.5,Pending,Cash on Delivery
+13,944,2024-08-26,772.61,Pending,PayPal
+14,590,2024-06-25,1126.76,Delivered,Cash on Delivery
+15,727,2024-08-16,1661.82,Delivered,PayPal
+16,118,2024-04-05,1592.07,Delivered,Credit Card
+17,990,2023-07-23,889.23,Shipped,Debit Card
+18,821,2024-02-22,768.87,Cancelled,Cash on Delivery
+19,852,2024-11-22,2380.0,Shipped,Credit Card
+20,448,2024-09-13,1264.54,Pending,Debit Card
+21,447,2024-11-04,3638.82,Cancelled,Cash on Delivery
+22,537,2024-07-28,3933.78,Pending,Cash on Delivery
+23,892,2024-09-04,4590.58,Shipped,PayPal
+24,227,2024-10-28,2685.75,Shipped,Debit Card
+25,79,2024-07-04,4195.51,Cancelled,Credit Card
+26,544,2024-10-20,4279.84,Cancelled,Debit Card
+27,928,2023-10-22,978.35,Shipped,PayPal
+28,745,2024-09-19,3328.21,Processing,Debit Card
+29,106,2024-07-24,618.51,Processing,PayPal
+30,203,2024-11-19,3178.72,Processing,Debit Card
+31,779,2024-11-28,1347.36,Pending,Debit Card
+32,975,2024-05-26,883.78,Delivered,Cash on Delivery
+33,773,2024-03-14,1322.92,Cancelled,Cash on Delivery
+34,698,2024-08-20,3187.64,Cancelled,PayPal
+35,885,2024-10-16,636.84,Shipped,Debit Card
+36,451,2024-10-21,3654.9,Pending,Cash on Delivery
+37,453,2024-04-01,2686.6,Shipped,PayPal
+38,606,2024-11-05,1047.18,Pending,PayPal
+39,520,2024-08-13,2343.88,Pending,PayPal
+40,473,2023-09-16,3320.68,Delivered,Credit Card
+41,59,2024-04-02,334.46,Shipped,PayPal
+42,79,2024-09-10,847.75,Pending,Cash on Delivery
+43,474,2024-04-16,3321.15,Cancelled,Credit Card
+44,461,2024-08-09,1857.52,Cancelled,Debit Card
+45,330,2024-11-17,2308.96,Cancelled,Cash on Delivery
+46,514,2023-12-16,1938.7,Processing,Credit Card
+47,462,2024-09-29,3031.35,Pending,PayPal
+48,732,2024-09-06,3805.84,Pending,Debit Card
+49,41,2024-11-21,3340.67,Processing,Cash on Delivery
+50,450,2024-08-21,6938.43,Cancelled,Debit Card
+51,373,2024-09-15,4194.38,Shipped,PayPal
+52,397,2023-11-29,1053.24,Delivered,PayPal
+53,696,2024-03-26,3532.45,Cancelled,Credit Card
+54,809,2024-10-31,999.42,Shipped,Credit Card
+55,338,2024-09-18,2402.44,Pending,Cash on Delivery
+56,291,2024-04-03,1790.04,Shipped,Debit Card
+57,342,2024-04-17,442.14,Pending,Debit Card
+58,939,2024-10-16,2129.92,Shipped,PayPal
+59,991,2024-10-07,406.86,Delivered,Debit Card
+60,610,2024-03-31,2558.33,Pending,PayPal
+61,573,2024-11-23,987.24,Delivered,PayPal
+62,833,2024-03-01,242.19,Processing,Credit Card
+63,662,2024-09-21,948.67,Delivered,PayPal
+64,19,2024-09-16,198.7,Shipped,PayPal
+65,185,2024-07-17,4211.39,Processing,PayPal
+66,971,2024-11-27,77.32,Delivered,Debit Card
+67,232,2024-09-03,432.43,Processing,Debit Card
+68,80,2024-07-07,131.12,Shipped,Credit Card
+69,520,2024-08-07,217.95,Cancelled,Credit Card
+70,678,2023-10-01,1176.87,Shipped,Debit Card
+71,612,2024-02-15,2375.38,Delivered,Debit Card
+72,167,2024-08-15,1500.72,Processing,Debit Card
+73,739,2024-11-06,285.38,Delivered,Credit Card
+74,421,2024-08-11,2557.72,Shipped,Debit Card
+75,993,2024-04-06,758.37,Delivered,PayPal
+76,771,2024-03-10,5081.6,Delivered,Debit Card
+77,547,2024-09-10,2454.47,Processing,PayPal
+78,989,2024-11-16,2152.55,Delivered,Debit Card
+79,377,2024-05-17,2670.19,Cancelled,Cash on Delivery
+80,473,2023-03-12,2412.3,Shipped,Cash on Delivery
+81,515,2024-11-19,4854.0,Cancelled,Cash on Delivery
+82,990,2024-10-03,2768.12,Processing,Debit Card
+83,821,2024-05-25,3854.57,Cancelled,Debit Card
+84,894,2024-11-27,1293.05,Shipped,Credit Card
+85,657,2024-11-27,971.27,Delivered,PayPal
+86,568,2024-06-28,4299.61,Pending,Credit Card
+87,292,2024-04-30,1225.44,Pending,Debit Card
+88,280,2024-03-25,1712.67,Delivered,Debit Card
+89,851,2024-11-12,1098.48,Delivered,Credit Card
+90,970,2024-06-06,2445.23,Processing,Cash on Delivery
+91,906,2024-03-04,2050.79,Shipped,Credit Card
+92,425,2023-10-05,2946.58,Pending,Cash on Delivery
+93,515,2024-11-25,2473.18,Shipped,Debit Card
+94,396,2023-11-09,1008.06,Pending,PayPal
+95,230,2024-05-05,1081.74,Pending,PayPal
+96,954,2024-11-26,2871.0,Pending,PayPal
+97,811,2023-12-20,644.56,Processing,Debit Card
+98,40,2024-03-31,546.78,Shipped,Cash on Delivery
+99,713,2023-09-06,1827.4,Processing,Cash on Delivery
+100,460,2024-05-31,982.82,Cancelled,Credit Card
+101,928,2023-11-09,852.76,Pending,Credit Card
+102,263,2024-03-29,749.8,Processing,Debit Card
+103,562,2023-11-25,1403.74,Cancelled,Cash on Delivery
+104,114,2024-08-14,714.25,Shipped,Debit Card
+105,309,2024-10-09,661.5,Pending,Credit Card
+106,245,2024-01-15,3220.4,Delivered,Cash on Delivery
+107,65,2024-07-06,3382.18,Pending,Cash on Delivery
+108,612,2024-10-24,1888.89,Cancelled,Credit Card
+109,648,2024-09-08,239.23,Cancelled,Debit Card
+110,736,2024-11-15,407.95,Processing,PayPal
+111,440,2023-09-10,1998.76,Pending,PayPal
+112,247,2024-11-29,627.94,Cancelled,Cash on Delivery
+113,192,2024-09-05,1023.54,Pending,PayPal
+114,70,2023-02-07,1550.5,Cancelled,Credit Card
+115,400,2024-09-03,2528.72,Delivered,Credit Card
+116,651,2024-10-12,1187.0,Delivered,PayPal
+117,260,2024-09-01,2098.1,Pending,PayPal
+118,808,2024-03-23,91.16,Pending,PayPal
+119,247,2024-11-14,988.92,Pending,PayPal
+120,137,2024-11-11,1285.8,Pending,PayPal
+121,560,2024-01-31,426.22,Shipped,Debit Card
+122,851,2024-08-14,878.89,Delivered,Cash on Delivery
+123,647,2024-10-17,5098.33,Processing,Debit Card
+124,65,2024-08-23,3167.83,Delivered,Credit Card
+125,301,2023-11-12,2491.25,Processing,Credit Card
+126,811,2024-05-07,1171.97,Processing,Credit Card
+127,324,2024-11-28,404.21,Shipped,Cash on Delivery
+128,835,2024-08-21,612.9,Cancelled,Cash on Delivery
+129,260,2024-11-28,1462.52,Pending,Debit Card
+130,293,2024-10-01,3510.37,Shipped,Credit Card
+131,887,2024-01-30,1767.44,Shipped,PayPal
+132,128,2024-04-18,852.44,Shipped,Cash on Delivery
+133,911,2024-01-22,2352.02,Delivered,Cash on Delivery
+134,917,2024-06-12,4895.34,Delivered,PayPal
+135,998,2024-03-17,746.62,Processing,Cash on Delivery
+136,709,2024-10-25,1239.0,Delivered,PayPal
+137,947,2024-05-22,1667.45,Cancelled,PayPal
+138,821,2024-09-21,7356.16,Pending,Cash on Delivery
+139,81,2023-08-22,1104.3,Delivered,Debit Card
+140,559,2024-01-23,1123.56,Shipped,PayPal
+141,106,2024-02-28,210.02,Pending,PayPal
+142,677,2024-07-17,2153.38,Shipped,PayPal
+143,457,2024-04-11,2213.22,Cancelled,Cash on Delivery
+144,171,2024-07-30,1217.01,Delivered,PayPal
+145,458,2024-05-13,4617.84,Pending,PayPal
+146,630,2024-05-17,275.06,Delivered,PayPal
+147,655,2024-09-18,3883.6,Pending,Credit Card
+148,688,2023-05-21,983.82,Delivered,PayPal
+149,526,2024-09-22,430.9,Processing,Credit Card
+150,147,2024-03-12,2602.56,Cancelled,Cash on Delivery
+151,36,2024-10-05,354.47,Processing,Credit Card
+152,242,2024-11-05,2324.95,Shipped,PayPal
+153,393,2024-08-22,957.93,Cancelled,Credit Card
+154,620,2024-06-28,4263.04,Processing,Cash on Delivery
+155,972,2024-11-04,31.83,Shipped,PayPal
+156,455,2024-05-01,1411.82,Pending,Debit Card
+157,543,2024-10-10,1863.41,Shipped,Cash on Delivery
+158,322,2024-04-26,757.67,Shipped,Debit Card
+159,984,2024-11-14,1621.4,Pending,Credit Card
+160,754,2024-04-28,4337.59,Processing,Cash on Delivery
+161,531,2023-12-10,822.33,Delivered,Credit Card
+162,269,2024-06-22,3548.54,Shipped,Cash on Delivery
+163,220,2024-11-15,627.27,Cancelled,PayPal
+164,711,2024-04-12,3251.08,Delivered,Debit Card
+165,126,2024-10-10,2961.82,Processing,Credit Card
+166,463,2024-10-06,242.46,Processing,Cash on Delivery
+167,90,2023-04-23,2301.64,Shipped,PayPal
+168,727,2024-03-12,955.26,Pending,PayPal
+169,913,2024-02-22,2222.7,Shipped,Debit Card
+170,729,2024-02-08,583.26,Processing,PayPal
+171,521,2024-01-07,2664.01,Processing,Credit Card
+172,206,2024-11-18,3310.34,Processing,Debit Card
+173,810,2024-10-10,3539.13,Delivered,Credit Card
+174,370,2024-05-05,2313.85,Cancelled,PayPal
+175,479,2024-05-03,2925.36,Cancelled,Debit Card
+176,627,2024-10-12,316.05,Pending,Credit Card
+177,317,2024-11-26,2285.72,Delivered,Cash on Delivery
+178,539,2023-04-25,2180.27,Delivered,Cash on Delivery
+179,844,2024-10-28,509.98,Cancelled,Credit Card
+180,129,2024-11-05,1324.93,Shipped,Credit Card
+181,461,2023-08-15,495.93,Delivered,PayPal
+182,132,2024-10-06,811.9,Cancelled,Debit Card
+183,787,2024-11-01,2532.04,Processing,Cash on Delivery
+184,515,2024-11-29,752.28,Pending,Credit Card
+185,531,2024-10-12,1313.71,Processing,PayPal
+186,169,2024-08-06,2236.91,Processing,PayPal
+187,958,2024-11-10,3519.22,Processing,PayPal
+188,971,2023-08-22,2321.63,Cancelled,PayPal
+189,867,2024-09-01,2951.56,Pending,PayPal
+190,202,2023-12-02,1999.84,Cancelled,PayPal
+191,129,2024-09-01,4323.58,Shipped,Credit Card
+192,515,2024-11-20,877.38,Processing,Debit Card
+193,176,2024-11-29,725.52,Cancelled,PayPal
+194,863,2024-11-15,5136.17,Cancelled,Credit Card
+195,846,2024-09-11,1535.72,Pending,Credit Card
+196,47,2024-11-16,2982.64,Cancelled,PayPal
+197,667,2024-08-08,1927.0,Processing,Cash on Delivery
+198,633,2024-06-28,341.84,Pending,Cash on Delivery
+199,911,2023-08-01,1762.58,Cancelled,PayPal
+200,658,2024-09-19,3925.37,Shipped,Cash on Delivery
+201,251,2024-11-28,285.2,Delivered,PayPal
+202,465,2024-11-20,33.67,Pending,Credit Card
+203,162,2024-10-12,5587.08,Delivered,Cash on Delivery
+204,496,2024-11-07,553.55,Delivered,Debit Card
+205,349,2024-04-03,219.59,Cancelled,Debit Card
+206,321,2024-10-17,3128.83,Shipped,PayPal
+207,999,2023-11-28,2847.2,Delivered,Debit Card
+208,779,2024-06-11,3332.8,Shipped,Credit Card
+209,327,2024-02-13,128.8,Processing,Cash on Delivery
+210,126,2024-10-04,953.15,Shipped,Cash on Delivery
+211,254,2024-04-21,5454.92,Processing,Credit Card
+212,52,2024-03-28,682.4,Shipped,Cash on Delivery
+213,885,2024-11-18,3571.92,Cancelled,Cash on Delivery
+214,255,2024-09-13,2522.61,Processing,PayPal
+215,957,2024-06-05,26.51,Cancelled,PayPal
+216,195,2023-07-01,1074.95,Processing,Cash on Delivery
+217,528,2024-04-21,471.55,Delivered,Cash on Delivery
+218,901,2024-09-07,1115.29,Shipped,Cash on Delivery
+219,24,2024-09-26,1004.27,Pending,Cash on Delivery
+220,518,2024-04-29,1210.33,Delivered,Debit Card
+221,221,2024-06-29,6625.75,Cancelled,PayPal
+222,50,2023-08-16,1533.29,Pending,PayPal
+223,507,2024-08-13,2084.98,Cancelled,Cash on Delivery
+224,293,2024-07-06,3162.77,Cancelled,Credit Card
+225,868,2024-05-24,427.31,Pending,Cash on Delivery
+226,138,2024-05-17,677.62,Shipped,PayPal
+227,783,2024-07-29,2470.41,Delivered,PayPal
+228,47,2024-11-13,1923.51,Delivered,Credit Card
+229,584,2024-08-20,2129.88,Cancelled,Debit Card
+230,372,2024-09-23,2231.32,Cancelled,PayPal
+231,76,2024-05-14,4242.78,Delivered,Cash on Delivery
+232,783,2024-05-01,400.72,Cancelled,PayPal
+233,846,2024-04-11,2415.43,Cancelled,Credit Card
+234,132,2024-07-26,2258.6,Pending,Cash on Delivery
+235,383,2024-11-25,3347.3,Shipped,PayPal
+236,774,2024-10-13,1081.83,Processing,Debit Card
+237,617,2024-11-05,2117.88,Cancelled,Cash on Delivery
+238,513,2024-07-22,2060.82,Pending,Credit Card
+239,40,2024-10-13,1864.88,Processing,PayPal
+240,824,2024-11-28,117.78,Delivered,Cash on Delivery
+241,153,2023-11-26,2137.51,Cancelled,Debit Card
+242,336,2024-11-22,974.75,Cancelled,PayPal
+243,167,2024-07-24,2969.86,Delivered,PayPal
+244,608,2024-04-04,2542.31,Shipped,Cash on Delivery
+245,726,2024-10-27,1803.6,Cancelled,PayPal
+246,487,2024-11-25,281.25,Pending,PayPal
+247,340,2023-07-28,3066.55,Pending,Cash on Delivery
+248,598,2024-05-22,2190.17,Shipped,Credit Card
+249,612,2024-07-07,358.41,Delivered,PayPal
+250,991,2024-01-25,1490.45,Cancelled,Debit Card
+251,739,2024-09-13,781.05,Pending,Cash on Delivery
+252,175,2024-03-18,1642.58,Cancelled,Cash on Delivery
+253,152,2024-06-20,7363.38,Processing,Credit Card
+254,587,2024-02-24,473.97,Pending,Debit Card
+255,20,2024-05-23,155.84,Delivered,PayPal
+256,429,2024-03-24,1154.51,Processing,Cash on Delivery
+257,708,2024-03-24,2135.56,Processing,Cash on Delivery
+258,514,2024-03-30,732.28,Cancelled,Cash on Delivery
+259,894,2024-08-19,1082.54,Pending,Debit Card
+260,532,2024-08-09,1644.68,Processing,PayPal
+261,679,2023-08-25,2056.36,Delivered,Cash on Delivery
+262,322,2024-03-29,5585.34,Processing,Cash on Delivery
+263,935,2024-02-09,2562.94,Cancelled,PayPal
+264,560,2024-09-09,2689.09,Shipped,PayPal
+265,625,2024-11-16,1397.12,Delivered,Debit Card
+266,981,2023-09-14,2285.75,Processing,PayPal
+267,572,2023-08-21,10.56,Shipped,Debit Card
+268,965,2024-06-26,2333.96,Shipped,PayPal
+269,722,2024-11-03,517.22,Processing,Cash on Delivery
+270,325,2023-11-22,2256.8,Delivered,PayPal
+271,574,2023-09-20,3010.25,Shipped,PayPal
+272,125,2024-11-11,1887.28,Cancelled,Cash on Delivery
+273,918,2024-09-23,5388.49,Delivered,PayPal
+274,978,2023-10-22,1525.52,Processing,PayPal
+275,44,2023-08-04,2183.6,Shipped,Credit Card
+276,355,2024-11-24,236.25,Delivered,PayPal
+277,766,2024-02-26,1998.76,Delivered,Debit Card
+278,207,2023-10-01,861.8,Cancelled,PayPal
+279,956,2024-10-14,496.75,Cancelled,PayPal
+280,141,2024-04-17,1676.86,Pending,Debit Card
+281,249,2023-11-16,3541.69,Pending,Debit Card
+282,654,2024-05-27,2078.24,Processing,Credit Card
+283,103,2024-04-13,3440.3,Delivered,PayPal
+284,735,2024-11-10,133.07,Delivered,Credit Card
+285,698,2024-03-27,1812.48,Processing,Credit Card
+286,988,2023-05-27,2636.43,Cancelled,Debit Card
+287,417,2024-11-09,1189.59,Delivered,Cash on Delivery
+288,667,2024-05-25,4564.11,Processing,PayPal
+289,329,2024-10-12,734.22,Shipped,Credit Card
+290,930,2024-03-07,1728.42,Pending,Debit Card
+291,548,2024-07-27,5361.53,Pending,Debit Card
+292,428,2024-07-11,429.78,Processing,Credit Card
+293,857,2023-10-02,1613.01,Delivered,Cash on Delivery
+294,191,2024-07-27,1498.38,Shipped,Credit Card
+295,10,2024-04-16,2300.49,Shipped,Credit Card
+296,951,2023-11-16,2603.64,Shipped,PayPal
+297,466,2023-08-30,1752.7,Cancelled,Cash on Delivery
+298,911,2024-10-07,2849.19,Processing,Cash on Delivery
+299,280,2024-03-31,2177.51,Processing,Credit Card
+300,339,2024-11-12,1815.54,Processing,Cash on Delivery
+301,664,2024-11-05,2668.73,Shipped,Debit Card
+302,15,2024-11-24,1416.72,Shipped,PayPal
+303,582,2024-08-07,4194.69,Processing,Debit Card
+304,626,2024-10-31,990.13,Delivered,Cash on Delivery
+305,528,2024-02-10,793.3,Shipped,Credit Card
+306,411,2023-06-07,96.26,Pending,Debit Card
+307,144,2024-09-13,453.6,Delivered,PayPal
+308,959,2024-07-27,4739.75,Processing,Credit Card
+309,268,2024-05-25,1349.62,Delivered,Debit Card
+310,458,2024-04-30,2817.14,Shipped,PayPal
+311,310,2024-09-18,2214.48,Cancelled,Credit Card
+312,268,2024-02-23,353.76,Shipped,Debit Card
+313,64,2024-06-20,2800.17,Pending,Cash on Delivery
+314,315,2023-06-16,1532.53,Processing,Cash on Delivery
+315,703,2024-11-20,1257.95,Cancelled,PayPal
+316,707,2024-11-24,3148.28,Pending,PayPal
+317,377,2024-03-14,1066.14,Cancelled,Debit Card
+318,225,2024-11-02,1558.63,Processing,Cash on Delivery
+319,157,2024-11-05,1882.32,Delivered,PayPal
+320,426,2024-03-05,2770.95,Cancelled,Cash on Delivery
+321,776,2023-12-29,3525.8,Cancelled,Debit Card
+322,781,2023-11-14,2713.09,Processing,Credit Card
+323,539,2023-11-18,1530.2,Delivered,PayPal
+324,80,2023-10-11,2549.3,Cancelled,Credit Card
+325,64,2023-10-11,2795.89,Cancelled,Debit Card
+326,587,2023-08-10,1331.66,Cancelled,Debit Card
+327,169,2024-03-27,1346.46,Shipped,Cash on Delivery
+328,120,2024-10-16,2434.25,Processing,Cash on Delivery
+329,94,2024-11-11,2006.4,Cancelled,Cash on Delivery
+330,829,2023-12-14,1485.91,Pending,Cash on Delivery
+331,136,2024-03-04,1764.15,Cancelled,Cash on Delivery
+332,468,2024-09-22,1613.85,Cancelled,Credit Card
+333,573,2024-10-01,132.55,Delivered,PayPal
+334,741,2024-11-28,3458.68,Pending,Cash on Delivery
+335,261,2024-06-02,583.58,Pending,Debit Card
+336,593,2023-04-13,2008.59,Pending,Credit Card
+337,434,2024-11-04,1848.9,Shipped,Credit Card
+338,555,2024-03-28,43.35,Pending,Credit Card
+339,957,2024-05-17,3356.94,Delivered,Credit Card
+340,294,2024-07-07,1239.82,Delivered,Debit Card
+341,788,2024-09-30,3447.82,Processing,Cash on Delivery
+342,384,2024-04-06,2327.66,Delivered,Cash on Delivery
+343,891,2024-06-09,447.42,Delivered,Cash on Delivery
+344,83,2024-11-09,442.71,Cancelled,Debit Card
+345,670,2024-07-17,1092.31,Shipped,Credit Card
+346,183,2024-10-27,159.7,Cancelled,Cash on Delivery
+347,542,2024-04-26,495.81,Processing,Debit Card
+348,855,2024-01-17,201.75,Pending,Credit Card
+349,306,2024-07-10,828.53,Delivered,Cash on Delivery
+350,545,2024-08-24,2852.26,Delivered,Debit Card
+351,254,2024-08-29,670.92,Delivered,PayPal
+352,159,2024-05-20,2645.0,Shipped,Debit Card
+353,960,2023-12-11,1432.35,Pending,Credit Card
+354,829,2024-05-25,2279.27,Delivered,Credit Card
+355,247,2024-10-15,956.18,Processing,Credit Card
+356,104,2024-03-25,1977.04,Cancelled,Credit Card
+357,458,2024-11-29,1719.25,Cancelled,Credit Card
+358,251,2024-11-09,1556.84,Pending,Cash on Delivery
+359,450,2024-07-13,6399.07,Processing,Debit Card
+360,773,2024-09-18,1876.65,Pending,Debit Card
+361,516,2024-01-22,322.64,Shipped,Debit Card
+362,836,2023-11-05,1553.12,Cancelled,PayPal
+363,592,2024-11-05,1069.75,Cancelled,PayPal
+364,243,2024-01-29,5224.19,Shipped,Debit Card
+365,677,2024-10-26,3634.3,Cancelled,Debit Card
+366,424,2024-01-15,1096.89,Shipped,PayPal
+367,63,2023-07-20,726.0,Cancelled,Debit Card
+368,642,2023-09-04,3509.0,Delivered,Cash on Delivery
+369,49,2023-09-25,259.73,Shipped,Cash on Delivery
+370,805,2024-10-16,4148.39,Cancelled,PayPal
+371,714,2023-10-09,123.78,Delivered,Cash on Delivery
+372,153,2024-09-28,2435.82,Shipped,Cash on Delivery
+373,189,2024-03-02,2434.09,Cancelled,Cash on Delivery
+374,247,2024-11-24,2203.11,Processing,PayPal
+375,879,2024-10-26,1991.19,Processing,Cash on Delivery
+376,937,2023-03-01,2386.5,Pending,Cash on Delivery
+377,992,2024-08-15,3013.75,Delivered,Debit Card
+378,398,2024-05-21,1910.75,Processing,PayPal
+379,209,2023-03-08,2174.1,Shipped,Credit Card
+380,945,2024-07-02,248.5,Delivered,PayPal
+381,95,2024-11-26,3680.67,Cancelled,Debit Card
+382,53,2024-10-13,1394.58,Shipped,Cash on Delivery
+383,690,2023-08-22,871.94,Cancelled,Credit Card
+384,895,2024-11-22,1882.94,Pending,Debit Card
+385,824,2024-11-28,3763.53,Cancelled,Debit Card
+386,491,2024-03-24,1926.33,Processing,PayPal
+387,311,2024-01-23,3476.87,Pending,Debit Card
+388,960,2023-07-12,73.4,Processing,Credit Card
+389,765,2023-05-24,2210.7,Delivered,Debit Card
+390,713,2023-08-06,2486.16,Cancelled,Debit Card
+391,407,2023-04-08,197.8,Processing,PayPal
+392,795,2024-05-23,2579.87,Shipped,Cash on Delivery
+393,478,2024-07-15,1843.44,Cancelled,PayPal
+394,316,2024-03-22,975.94,Shipped,PayPal
+395,526,2024-03-04,1718.04,Delivered,Cash on Delivery
+396,101,2024-05-16,2212.72,Delivered,PayPal
+397,937,2024-02-29,5350.3,Processing,PayPal
+398,321,2023-12-03,2665.9,Delivered,Credit Card
+399,577,2024-04-17,4065.23,Processing,Debit Card
+400,17,2024-11-16,4467.92,Shipped,Cash on Delivery
+401,303,2024-05-05,1268.39,Processing,Debit Card
+402,338,2024-03-28,1830.94,Processing,Cash on Delivery
+403,584,2024-10-10,2011.86,Processing,Cash on Delivery
+404,564,2024-05-22,662.4,Shipped,PayPal
+405,782,2024-09-09,5585.13,Delivered,Cash on Delivery
+406,472,2023-09-04,872.66,Processing,PayPal
+407,174,2024-08-03,5096.77,Processing,Cash on Delivery
+408,189,2023-05-20,1609.69,Cancelled,Credit Card
+409,537,2024-05-26,2583.73,Pending,Credit Card
+410,968,2024-11-10,1665.88,Pending,Credit Card
+411,423,2024-11-08,2535.37,Processing,Debit Card
+412,70,2024-07-10,274.38,Processing,Credit Card
+413,224,2024-10-29,1042.25,Cancelled,Cash on Delivery
+414,383,2024-11-28,1832.22,Pending,Cash on Delivery
+415,676,2024-03-11,1811.82,Delivered,Credit Card
+416,7,2024-01-10,2463.58,Cancelled,Cash on Delivery
+417,13,2024-10-14,3420.5,Pending,PayPal
+418,549,2024-02-04,1497.66,Shipped,Credit Card
+419,515,2024-11-21,1133.4,Delivered,Debit Card
+420,110,2024-03-13,3994.45,Pending,Debit Card
+421,247,2024-11-19,1119.58,Processing,PayPal
+422,835,2024-07-22,4546.74,Shipped,PayPal
+423,815,2024-08-24,3476.9,Delivered,Credit Card
+424,383,2024-11-17,1720.45,Delivered,Cash on Delivery
+425,579,2024-06-12,1169.8,Processing,Debit Card
+426,308,2023-10-24,6611.07,Pending,Credit Card
+427,96,2024-08-27,2003.15,Delivered,Cash on Delivery
+428,387,2024-11-13,7302.99,Cancelled,Cash on Delivery
+429,58,2023-10-16,3256.86,Pending,Debit Card
+430,85,2024-04-01,411.79,Delivered,Cash on Delivery
+431,661,2024-11-15,2067.41,Shipped,Credit Card
+432,917,2024-10-04,2396.01,Cancelled,Credit Card
+433,236,2024-09-21,1536.22,Processing,Cash on Delivery
+434,278,2024-05-26,3001.78,Pending,Credit Card
+435,701,2024-08-13,2023.36,Shipped,Credit Card
+436,184,2024-02-22,1201.06,Shipped,Credit Card
+437,985,2024-10-20,1672.02,Processing,Debit Card
+438,771,2023-11-17,5228.97,Delivered,Credit Card
+439,307,2024-11-13,1204.82,Processing,Debit Card
+440,581,2024-11-26,1863.65,Delivered,PayPal
+441,394,2024-11-08,3719.95,Processing,Credit Card
+442,513,2024-05-13,3270.76,Shipped,Credit Card
+443,101,2024-01-26,1072.24,Delivered,Debit Card
+444,859,2024-07-24,2194.08,Pending,PayPal
+445,620,2024-07-20,2124.22,Cancelled,Cash on Delivery
+446,993,2023-11-23,2631.57,Shipped,Credit Card
+447,650,2024-11-29,1839.54,Shipped,Cash on Delivery
+448,503,2024-11-18,374.9,Processing,PayPal
+449,567,2024-02-01,2930.26,Delivered,Cash on Delivery
+450,191,2024-07-05,145.35,Cancelled,Cash on Delivery
+451,88,2024-03-28,1640.03,Cancelled,PayPal
+452,818,2024-10-21,983.91,Processing,Credit Card
+453,85,2023-11-29,3875.79,Shipped,Debit Card
+454,390,2024-11-28,2303.56,Processing,Cash on Delivery
+455,325,2024-10-21,1835.04,Shipped,Credit Card
+456,94,2024-11-25,808.2,Pending,PayPal
+457,456,2024-11-24,926.49,Shipped,PayPal
+458,105,2024-07-14,1675.55,Processing,Credit Card
+459,192,2024-07-04,2179.62,Delivered,Cash on Delivery
+460,571,2024-07-23,367.52,Cancelled,Cash on Delivery
+461,106,2024-04-29,1413.0,Pending,Credit Card
+462,363,2024-07-05,1196.64,Cancelled,Credit Card
+463,612,2024-02-09,2585.41,Cancelled,PayPal
+464,885,2024-08-12,5611.58,Delivered,Credit Card
+465,299,2024-01-18,1493.94,Delivered,Cash on Delivery
+466,798,2024-10-28,959.57,Pending,Debit Card
+467,586,2024-08-20,2281.07,Cancelled,Debit Card
+468,702,2023-12-26,3365.72,Delivered,Debit Card
+469,143,2023-10-05,615.24,Shipped,PayPal
+470,275,2024-11-17,2115.04,Delivered,Debit Card
+471,65,2024-01-11,95.49,Processing,Cash on Delivery
+472,283,2024-09-08,433.42,Delivered,PayPal
+473,496,2023-03-31,2818.87,Pending,PayPal
+474,258,2024-08-30,1553.24,Processing,Cash on Delivery
+475,609,2024-10-31,493.45,Cancelled,Debit Card
+476,469,2023-12-16,2963.23,Pending,Debit Card
+477,312,2024-01-18,1375.02,Pending,Cash on Delivery
+478,341,2024-06-16,305.07,Cancelled,Cash on Delivery
+479,824,2024-11-28,560.7,Shipped,Cash on Delivery
+480,343,2024-05-11,117.32,Delivered,Debit Card
+481,308,2024-05-04,4908.64,Shipped,Debit Card
+482,491,2024-04-24,200.64,Shipped,Debit Card
+483,988,2024-05-30,255.77,Delivered,PayPal
+484,299,2023-05-25,2271.3,Delivered,Debit Card
+485,334,2024-04-08,86.45,Delivered,PayPal
+486,837,2024-09-23,1252.7,Delivered,PayPal
+487,117,2024-07-09,484.92,Cancelled,Debit Card
+488,607,2024-08-25,2313.11,Cancelled,Debit Card
+489,699,2024-05-01,1375.02,Cancelled,Credit Card
+490,976,2023-09-02,3531.8,Delivered,Debit Card
+491,449,2024-05-31,298.86,Shipped,Credit Card
+492,839,2024-05-04,394.76,Delivered,Cash on Delivery
+493,143,2024-09-24,1533.21,Shipped,Debit Card
+494,259,2024-11-11,397.5,Processing,Cash on Delivery
+495,809,2024-01-02,4906.01,Delivered,Credit Card
+496,460,2023-07-02,3978.35,Cancelled,Cash on Delivery
+497,597,2024-05-09,1204.7,Delivered,Cash on Delivery
+498,557,2024-06-06,1071.75,Pending,PayPal
+499,719,2024-05-06,489.08,Cancelled,Credit Card
+500,112,2024-09-28,3640.59,Processing,PayPal
+501,171,2024-04-15,1525.8,Cancelled,Credit Card
+502,577,2024-09-13,1300.42,Delivered,PayPal
+503,989,2024-10-22,1350.9,Delivered,Credit Card
+504,11,2023-12-27,1373.86,Pending,PayPal
+505,228,2024-07-10,801.95,Cancelled,Debit Card
+506,457,2023-11-17,471.5,Shipped,Cash on Delivery
+507,475,2024-08-03,198.3,Cancelled,Debit Card
+508,354,2024-10-06,2113.68,Pending,Cash on Delivery
+509,108,2023-08-28,327.35,Shipped,Cash on Delivery
+510,943,2023-12-10,4150.63,Pending,Credit Card
+511,852,2024-10-23,2794.62,Processing,PayPal
+512,320,2024-05-21,1880.11,Shipped,Cash on Delivery
+513,804,2024-04-21,1390.05,Processing,Cash on Delivery
+514,357,2024-05-11,1471.81,Delivered,Credit Card
+515,449,2024-10-05,821.4,Delivered,PayPal
+516,69,2023-10-15,3084.37,Shipped,Credit Card
+517,830,2024-11-05,1648.16,Pending,Credit Card
+518,870,2024-05-15,3757.59,Shipped,Credit Card
+519,694,2024-07-04,175.59,Processing,Debit Card
+520,529,2024-02-25,2280.84,Processing,Debit Card
+521,339,2024-10-11,1195.44,Cancelled,Cash on Delivery
+522,982,2024-10-08,4118.58,Delivered,Debit Card
+523,817,2024-01-04,1201.86,Delivered,Debit Card
+524,191,2024-07-26,94.31,Delivered,Cash on Delivery
+525,30,2024-11-22,1683.3,Cancelled,Debit Card
+526,461,2023-10-10,737.85,Cancelled,Cash on Delivery
+527,399,2024-05-15,632.68,Pending,Debit Card
+528,211,2023-11-10,414.57,Shipped,Credit Card
+529,592,2024-10-22,2696.27,Pending,Debit Card
+530,375,2024-01-13,874.68,Shipped,Debit Card
+531,469,2024-02-18,1137.45,Pending,PayPal
+532,687,2024-07-24,1665.1,Delivered,PayPal
+533,612,2024-07-29,2190.64,Delivered,Cash on Delivery
+534,602,2024-03-13,2689.58,Pending,PayPal
+535,361,2023-07-02,486.76,Delivered,Debit Card
+536,834,2024-10-28,2390.17,Shipped,Credit Card
+537,689,2024-09-07,1030.85,Processing,PayPal
+538,121,2024-11-14,436.85,Processing,PayPal
+539,120,2024-02-11,2748.54,Processing,PayPal
+540,711,2024-07-20,1915.44,Processing,Cash on Delivery
+541,429,2024-09-08,2142.18,Cancelled,Debit Card
+542,589,2024-07-18,3675.05,Delivered,Cash on Delivery
+543,191,2024-06-26,1270.56,Delivered,Debit Card
+544,569,2024-08-02,99.48,Processing,Cash on Delivery
+545,296,2023-02-17,2230.69,Processing,Debit Card
+546,323,2024-10-28,525.82,Delivered,Credit Card
+547,887,2024-09-04,5097.54,Shipped,Credit Card
+548,497,2023-12-05,133.12,Processing,Debit Card
+549,835,2024-11-02,2904.94,Delivered,Cash on Delivery
+550,419,2024-03-12,1032.16,Delivered,Cash on Delivery
+551,728,2024-03-18,646.32,Delivered,Cash on Delivery
+552,172,2024-11-18,1670.66,Pending,Credit Card
+553,815,2024-07-23,1595.78,Processing,PayPal
+554,34,2024-11-28,4874.08,Shipped,Debit Card
+555,551,2024-03-31,2269.69,Shipped,Debit Card
+556,800,2023-12-01,1458.02,Delivered,Cash on Delivery
+557,563,2024-11-03,2290.67,Cancelled,Credit Card
+558,587,2024-03-05,1096.0,Pending,PayPal
+559,794,2024-05-14,859.1,Cancelled,PayPal
+560,556,2023-06-21,2390.75,Pending,Cash on Delivery
+561,560,2024-10-11,297.39,Processing,Cash on Delivery
+562,105,2024-11-05,2199.48,Processing,PayPal
+563,896,2024-07-10,1201.98,Pending,Cash on Delivery
+564,270,2024-07-31,1197.45,Shipped,Credit Card
+565,450,2023-11-26,2222.28,Pending,Debit Card
+566,215,2024-09-09,4956.11,Cancelled,PayPal
+567,882,2024-06-22,1209.95,Cancelled,Cash on Delivery
+568,170,2024-07-01,2386.51,Cancelled,Debit Card
+569,804,2024-07-21,2561.47,Processing,Debit Card
+570,825,2024-08-11,612.29,Pending,PayPal
+571,546,2024-09-28,6007.3,Shipped,Debit Card
+572,332,2024-09-04,2321.2,Shipped,PayPal
+573,587,2023-12-14,576.51,Shipped,Credit Card
+574,139,2024-03-05,3582.62,Delivered,Credit Card
+575,284,2024-05-26,2474.27,Processing,Debit Card
+576,256,2024-08-28,1224.63,Processing,PayPal
+577,849,2024-07-15,2141.32,Processing,Cash on Delivery
+578,502,2024-11-29,2711.76,Processing,PayPal
+579,643,2024-03-16,4827.5,Delivered,Cash on Delivery
+580,463,2024-09-17,643.17,Pending,Credit Card
+581,413,2024-11-07,2554.85,Cancelled,PayPal
+582,712,2024-08-02,1636.74,Shipped,Cash on Delivery
+583,974,2024-10-15,2395.34,Delivered,PayPal
+584,596,2024-11-03,5289.31,Pending,Credit Card
+585,749,2024-04-03,3176.87,Delivered,PayPal
+586,871,2024-07-24,356.46,Pending,Cash on Delivery
+587,224,2024-10-15,1407.14,Delivered,Debit Card
+588,507,2024-06-09,248.35,Shipped,PayPal
+589,849,2024-06-28,510.84,Shipped,PayPal
+590,561,2024-08-24,2789.67,Cancelled,Debit Card
+591,580,2023-09-14,3565.84,Delivered,PayPal
+592,916,2024-06-11,1833.36,Pending,Credit Card
+593,102,2024-11-15,3439.59,Delivered,Credit Card
+594,128,2024-07-18,2565.5,Processing,Cash on Delivery
+595,468,2023-05-03,3102.13,Pending,Cash on Delivery
+596,208,2024-02-09,828.07,Processing,PayPal
+597,163,2024-09-05,1802.08,Shipped,Credit Card
+598,671,2024-11-05,18.02,Shipped,PayPal
+599,85,2023-10-28,1012.16,Shipped,Debit Card
+600,54,2024-07-20,2265.02,Delivered,PayPal
+601,744,2024-03-12,1467.62,Processing,Cash on Delivery
+602,672,2024-11-21,1755.3,Pending,Credit Card
+603,2,2024-09-12,2233.44,Processing,Cash on Delivery
+604,80,2024-05-27,2080.06,Processing,Debit Card
+605,532,2024-11-08,3387.37,Delivered,Credit Card
+606,9,2024-07-18,608.19,Shipped,Credit Card
+607,881,2024-04-13,4149.69,Delivered,Debit Card
+608,490,2024-02-04,4571.11,Pending,Debit Card
+609,393,2024-02-01,1270.45,Pending,Credit Card
+610,106,2023-09-30,2025.37,Shipped,PayPal
+611,903,2024-05-08,1858.82,Shipped,Debit Card
+612,392,2024-03-12,3211.96,Processing,Debit Card
+613,71,2024-03-17,477.9,Cancelled,Credit Card
+614,625,2024-08-07,505.58,Processing,Cash on Delivery
+615,360,2024-05-12,1130.45,Processing,Debit Card
+616,942,2024-02-03,1913.24,Delivered,Cash on Delivery
+617,881,2024-05-04,2840.83,Processing,Credit Card
+618,919,2024-11-29,626.05,Pending,Debit Card
+619,771,2023-08-20,4888.62,Pending,Cash on Delivery
+620,360,2024-03-11,1462.99,Delivered,PayPal
+621,811,2024-10-24,4923.72,Processing,Debit Card
+622,284,2024-09-14,5600.43,Pending,Debit Card
+623,567,2023-12-11,1442.44,Cancelled,PayPal
+624,798,2024-11-17,1018.2,Pending,PayPal
+625,211,2023-10-20,2223.75,Cancelled,Debit Card
+626,766,2024-01-23,1903.39,Delivered,PayPal
+627,662,2024-11-05,3318.9,Pending,Debit Card
+628,507,2024-02-17,3243.91,Delivered,Credit Card
+629,247,2024-11-28,2305.48,Delivered,Credit Card
+630,541,2024-02-11,3260.78,Pending,PayPal
+631,957,2024-05-03,438.63,Shipped,Debit Card
+632,397,2024-02-26,2207.43,Cancelled,Cash on Delivery
+633,375,2024-11-27,542.74,Cancelled,Debit Card
+634,782,2024-10-31,1100.8,Delivered,Credit Card
+635,18,2024-08-26,2611.0,Cancelled,Credit Card
+636,15,2024-11-21,3598.55,Shipped,Debit Card
+637,41,2024-09-23,75.41,Pending,Cash on Delivery
+638,519,2024-05-06,3288.72,Shipped,Cash on Delivery
+639,434,2024-10-28,315.78,Delivered,Credit Card
+640,656,2023-09-24,692.84,Cancelled,Debit Card
+641,285,2024-06-07,1433.55,Pending,PayPal
+642,81,2023-12-05,1574.68,Cancelled,Debit Card
+643,998,2024-11-25,1479.64,Processing,PayPal
+644,401,2024-11-14,3800.38,Cancelled,Credit Card
+645,318,2024-06-26,647.74,Delivered,Debit Card
+646,60,2024-06-16,233.27,Processing,Credit Card
+647,947,2024-11-18,2490.51,Delivered,Credit Card
+648,465,2024-10-26,390.55,Cancelled,Credit Card
+649,317,2024-05-26,2999.26,Processing,Credit Card
+650,13,2024-01-29,2999.98,Processing,Credit Card
+651,168,2024-11-09,3787.41,Delivered,PayPal
+652,536,2023-07-20,220.21,Cancelled,PayPal
+653,171,2024-01-14,3197.11,Shipped,Debit Card
+654,768,2024-05-25,4664.1,Shipped,Credit Card
+655,790,2024-06-24,4131.14,Pending,PayPal
+656,827,2024-11-11,2828.86,Delivered,PayPal
+657,537,2024-05-28,482.96,Pending,PayPal
+658,730,2024-02-03,3050.92,Cancelled,Credit Card
+659,509,2024-07-19,1527.46,Delivered,PayPal
+660,57,2024-10-31,4135.1,Delivered,Debit Card
+661,377,2024-02-08,2532.16,Processing,PayPal
+662,792,2024-11-11,231.11,Pending,Credit Card
+663,234,2024-09-27,1662.59,Cancelled,Credit Card
+664,46,2024-08-19,2098.6,Pending,Debit Card
+665,48,2024-01-31,3683.61,Delivered,PayPal
+666,393,2024-08-20,3370.46,Processing,Debit Card
+667,954,2024-10-21,1762.54,Pending,Cash on Delivery
+668,230,2023-12-07,4345.64,Shipped,Debit Card
+669,427,2024-11-14,242.79,Shipped,PayPal
+670,846,2024-08-02,3524.11,Pending,PayPal
+671,123,2024-05-16,1401.91,Cancelled,Credit Card
+672,184,2024-08-05,627.8,Processing,Credit Card
+673,977,2024-09-01,3002.49,Delivered,Credit Card
+674,899,2024-01-10,3940.15,Delivered,PayPal
+675,793,2024-09-15,836.91,Shipped,PayPal
+676,89,2024-11-26,840.08,Cancelled,Cash on Delivery
+677,9,2024-08-16,2876.55,Shipped,Debit Card
+678,299,2023-10-26,1308.7,Cancelled,PayPal
+679,758,2024-08-10,1283.26,Cancelled,Debit Card
+680,476,2024-09-05,2307.01,Shipped,Cash on Delivery
+681,792,2024-11-04,1653.47,Processing,Debit Card
+682,155,2023-10-27,2267.39,Pending,Cash on Delivery
+683,25,2023-11-27,1731.93,Processing,PayPal
+684,652,2024-11-28,4693.53,Pending,PayPal
+685,2,2024-10-20,383.13,Delivered,PayPal
+686,107,2024-02-18,1221.11,Processing,Debit Card
+687,430,2024-08-18,1490.92,Delivered,Credit Card
+688,996,2024-11-22,2407.25,Processing,PayPal
+689,96,2024-03-13,1596.55,Pending,Debit Card
+690,919,2024-11-29,341.84,Cancelled,Cash on Delivery
+691,718,2024-05-30,416.16,Shipped,Cash on Delivery
+692,998,2024-05-01,3219.63,Pending,Credit Card
+693,518,2024-07-15,1722.86,Processing,Cash on Delivery
+694,77,2023-09-03,1343.55,Cancelled,Credit Card
+695,446,2024-08-10,2833.05,Processing,Debit Card
+696,299,2024-06-25,3991.28,Shipped,PayPal
+697,949,2024-10-26,182.34,Delivered,PayPal
+698,326,2024-03-26,5750.31,Delivered,PayPal
+699,240,2024-11-20,4683.56,Pending,Debit Card
+700,140,2024-03-07,1987.79,Cancelled,Credit Card
+701,160,2024-08-01,1841.78,Pending,Debit Card
+702,461,2024-09-15,7014.59,Delivered,PayPal
+703,417,2024-11-24,1357.43,Pending,PayPal
+704,988,2023-09-03,853.11,Processing,Cash on Delivery
+705,316,2023-12-10,1835.81,Delivered,PayPal
+706,873,2024-10-24,3406.52,Pending,Credit Card
+707,162,2024-09-03,1998.76,Shipped,Credit Card
+708,221,2023-06-29,509.97,Shipped,Debit Card
+709,94,2024-11-12,1557.0,Processing,PayPal
+710,406,2024-06-09,1944.3,Cancelled,Credit Card
+711,694,2024-09-24,1388.87,Shipped,PayPal
+712,840,2023-12-01,3949.71,Processing,Credit Card
+713,975,2024-03-26,3926.72,Delivered,Cash on Delivery
+714,570,2023-10-12,2551.73,Cancelled,Debit Card
+715,97,2024-11-21,1899.9,Delivered,Credit Card
+716,824,2024-11-28,718.86,Processing,Credit Card
+717,13,2024-01-11,294.54,Pending,Debit Card
+718,134,2024-09-08,4039.3,Processing,Cash on Delivery
+719,382,2024-03-20,2324.78,Pending,PayPal
+720,940,2024-01-25,1873.46,Pending,Credit Card
+721,67,2024-09-08,1234.05,Processing,Cash on Delivery
+722,829,2023-12-27,4784.22,Processing,Credit Card
+723,927,2024-11-20,2215.72,Shipped,Credit Card
+724,44,2024-05-24,936.74,Delivered,Credit Card
+725,173,2024-09-29,3865.47,Cancelled,Cash on Delivery
+726,842,2024-11-24,38.36,Delivered,Cash on Delivery
+727,31,2024-11-24,5814.75,Delivered,Cash on Delivery
+728,177,2023-12-26,2025.56,Shipped,Debit Card
+729,931,2024-03-25,2474.97,Processing,PayPal
+730,287,2024-06-15,1375.21,Delivered,Debit Card
+731,36,2024-10-08,2330.94,Cancelled,Debit Card
+732,663,2024-10-30,1747.78,Shipped,Cash on Delivery
+733,422,2023-07-28,1150.93,Cancelled,Cash on Delivery
+734,63,2023-09-22,101.8,Pending,PayPal
+735,393,2024-07-05,255.73,Processing,Cash on Delivery
+736,205,2024-11-08,2218.88,Cancelled,Debit Card
+737,646,2024-06-22,1600.78,Cancelled,Credit Card
+738,392,2024-09-01,945.38,Shipped,Cash on Delivery
+739,558,2024-11-26,1152.2,Delivered,PayPal
+740,935,2024-01-19,1135.55,Cancelled,PayPal
+741,398,2024-06-18,1349.25,Shipped,Debit Card
+742,27,2023-12-10,2470.38,Shipped,Debit Card
+743,31,2024-11-08,1316.11,Shipped,Credit Card
+744,829,2024-09-17,569.0,Delivered,PayPal
+745,786,2024-11-19,4262.9,Cancelled,Debit Card
+746,998,2023-12-01,791.34,Processing,Credit Card
+747,254,2024-10-09,2559.62,Processing,PayPal
+748,547,2024-10-10,780.85,Pending,Debit Card
+749,590,2023-03-05,2187.32,Delivered,PayPal
+750,958,2024-11-15,1525.8,Processing,Debit Card
+751,243,2023-12-07,73.4,Cancelled,PayPal
+752,826,2024-10-19,1768.75,Shipped,Credit Card
+753,721,2024-07-07,4318.78,Shipped,Debit Card
+754,577,2024-07-31,451.52,Processing,Cash on Delivery
+755,556,2024-06-06,2829.64,Shipped,Debit Card
+756,503,2024-10-22,3481.84,Pending,Credit Card
+757,58,2024-01-01,4970.3,Processing,Debit Card
+758,21,2024-10-19,2266.34,Cancelled,Cash on Delivery
+759,1,2024-10-15,1463.22,Shipped,Debit Card
+760,826,2024-07-02,1683.94,Processing,PayPal
+761,735,2024-05-16,1735.54,Processing,PayPal
+762,61,2023-10-15,4661.83,Pending,Debit Card
+763,601,2023-08-21,1373.1,Processing,Credit Card
+764,867,2024-10-03,1273.48,Cancelled,PayPal
+765,984,2024-08-28,2480.55,Pending,PayPal
+766,722,2024-08-28,3573.78,Delivered,Credit Card
+767,345,2024-10-15,3909.65,Shipped,PayPal
+768,140,2024-02-13,5247.19,Processing,Cash on Delivery
+769,811,2023-11-08,420.07,Delivered,PayPal
+770,179,2024-11-19,2280.75,Cancelled,PayPal
+771,229,2024-09-03,781.29,Cancelled,Debit Card
+772,388,2024-10-11,1593.56,Shipped,PayPal
+773,131,2024-04-22,1668.44,Processing,Credit Card
+774,972,2024-11-10,3185.1,Cancelled,Cash on Delivery
+775,872,2023-09-04,2392.65,Cancelled,Credit Card
+776,187,2024-02-26,1977.88,Cancelled,PayPal
+777,944,2024-10-21,2098.8,Cancelled,Debit Card
+778,655,2023-09-13,1498.6,Cancelled,Credit Card
+779,960,2024-02-02,1059.04,Delivered,Debit Card
+780,340,2024-08-25,1246.41,Pending,Debit Card
+781,356,2023-11-07,2002.28,Shipped,Debit Card
+782,652,2024-11-16,2402.56,Pending,PayPal
+783,458,2024-10-31,379.29,Pending,PayPal
+784,215,2023-11-26,1384.59,Processing,Credit Card
+785,359,2024-10-25,2013.2,Shipped,Credit Card
+786,738,2023-11-26,509.14,Pending,Credit Card
+787,396,2024-10-29,3799.77,Delivered,Cash on Delivery
+788,993,2023-05-12,1204.12,Processing,Cash on Delivery
+789,505,2024-05-20,2630.95,Delivered,PayPal
+790,560,2024-03-07,4690.77,Delivered,Credit Card
+791,849,2024-07-11,964.28,Delivered,Debit Card
+792,167,2024-05-18,2324.3,Delivered,Credit Card
+793,819,2023-09-13,2783.08,Pending,PayPal
+794,21,2024-08-17,3955.37,Shipped,PayPal
+795,975,2024-09-17,3888.22,Pending,Credit Card
+796,351,2024-09-21,962.95,Processing,Cash on Delivery
+797,165,2023-09-04,2071.5,Pending,Credit Card
+798,347,2024-04-15,1702.88,Cancelled,Cash on Delivery
+799,722,2024-08-15,336.25,Pending,Cash on Delivery
+800,966,2024-07-11,1541.24,Processing,Cash on Delivery
+801,161,2024-06-12,4551.59,Pending,Credit Card
+802,340,2024-10-20,2592.56,Processing,Debit Card
+803,420,2024-10-13,1683.26,Cancelled,PayPal
+804,677,2024-02-24,3640.87,Shipped,PayPal
+805,244,2024-10-23,2002.2,Pending,Credit Card
+806,403,2023-10-04,163.0,Cancelled,Cash on Delivery
+807,158,2024-03-22,2666.22,Pending,PayPal
+808,4,2024-08-16,272.29,Delivered,Credit Card
+809,302,2024-11-27,2492.77,Cancelled,Cash on Delivery
+810,205,2024-09-01,1833.36,Pending,Credit Card
+811,212,2023-11-16,1814.72,Processing,PayPal
+812,84,2024-05-31,2702.18,Delivered,Credit Card
+813,316,2024-05-17,258.61,Delivered,Cash on Delivery
+814,501,2023-12-18,3540.93,Shipped,Credit Card
+815,658,2024-10-24,294.54,Cancelled,Cash on Delivery
+816,190,2024-06-23,606.15,Shipped,Cash on Delivery
+817,379,2024-10-20,797.61,Processing,Cash on Delivery
+818,46,2024-05-03,29.28,Shipped,Cash on Delivery
+819,477,2023-03-25,2470.7,Shipped,Debit Card
+820,858,2024-10-03,1426.98,Shipped,Credit Card
+821,155,2023-12-20,1557.2,Pending,Credit Card
+822,685,2024-05-07,650.88,Shipped,Cash on Delivery
+823,995,2024-05-15,3313.16,Cancelled,Debit Card
+824,567,2024-05-18,2790.77,Pending,Cash on Delivery
+825,839,2024-05-04,2578.88,Cancelled,Cash on Delivery
+826,989,2024-10-22,2004.2,Cancelled,Cash on Delivery
+827,587,2023-06-13,1928.44,Processing,Cash on Delivery
+828,307,2024-03-14,2648.08,Pending,Cash on Delivery
+829,925,2024-05-12,2534.88,Pending,Debit Card
+830,124,2024-08-18,452.56,Delivered,Debit Card
+831,972,2024-11-12,2640.58,Processing,Debit Card
+832,828,2024-11-03,3255.66,Processing,Debit Card
+833,44,2024-11-24,2368.3,Delivered,Credit Card
+834,700,2024-07-17,3279.22,Delivered,Debit Card
+835,843,2023-09-07,1796.48,Processing,PayPal
+836,328,2024-07-15,59.72,Pending,Credit Card
+837,398,2023-07-26,2397.15,Cancelled,Cash on Delivery
+838,566,2024-06-04,1943.38,Shipped,PayPal
+839,533,2024-03-28,1535.97,Delivered,Credit Card
+840,806,2024-10-02,3147.57,Cancelled,Cash on Delivery
+841,116,2024-11-14,1790.88,Delivered,Debit Card
+842,152,2024-05-13,2815.1,Cancelled,Credit Card
+843,948,2023-11-30,329.31,Pending,Credit Card
+844,805,2024-06-17,994.58,Shipped,PayPal
+845,899,2024-05-27,400.48,Delivered,PayPal
+846,393,2024-05-10,3480.12,Delivered,Cash on Delivery
+847,39,2023-11-12,3067.85,Processing,PayPal
+848,413,2024-11-06,637.87,Processing,Cash on Delivery
+849,40,2024-11-16,1328.91,Delivered,PayPal
+850,708,2024-02-29,1802.08,Processing,Credit Card
+851,764,2023-04-17,358.8,Delivered,PayPal
+852,919,2024-11-29,963.78,Shipped,Credit Card
+853,346,2024-01-04,641.31,Shipped,PayPal
+854,288,2023-09-02,708.36,Delivered,Credit Card
+855,996,2024-04-24,2847.7,Processing,Debit Card
+856,308,2023-12-05,1821.68,Delivered,PayPal
+857,276,2024-08-19,1008.03,Delivered,Credit Card
+858,193,2023-10-14,1652.77,Delivered,Debit Card
+859,936,2024-09-14,1723.1,Delivered,Cash on Delivery
+860,778,2023-04-19,1035.43,Cancelled,PayPal
+861,841,2024-11-19,363.63,Pending,Debit Card
+862,68,2024-10-28,2397.13,Shipped,Cash on Delivery
+863,139,2024-08-17,2851.15,Cancelled,Credit Card
+864,178,2024-11-22,1372.44,Processing,Debit Card
+865,858,2024-08-16,100.42,Pending,Debit Card
+866,34,2024-11-01,4274.6,Delivered,Credit Card
+867,941,2023-07-27,1182.81,Shipped,Debit Card
+868,281,2024-09-27,3581.11,Shipped,Cash on Delivery
+869,518,2024-05-10,4261.01,Delivered,Credit Card
+870,698,2023-09-03,493.8,Pending,Debit Card
+871,382,2024-03-16,2581.68,Delivered,Cash on Delivery
+872,182,2024-01-28,3871.93,Delivered,PayPal
+873,353,2024-07-25,1465.47,Processing,PayPal
+874,767,2024-02-13,3158.91,Pending,PayPal
+875,29,2024-10-07,3020.93,Delivered,Credit Card
+876,167,2024-10-21,2447.78,Cancelled,Debit Card
+877,878,2024-06-26,576.81,Processing,Debit Card
+878,694,2024-07-06,3734.71,Processing,PayPal
+879,668,2024-09-11,1019.9,Delivered,Credit Card
+880,886,2023-10-09,3463.38,Pending,Cash on Delivery
+881,934,2024-10-24,791.15,Processing,Debit Card
+882,616,2024-07-10,1556.46,Pending,Debit Card
+883,259,2024-11-19,1530.08,Cancelled,PayPal
+884,730,2024-08-06,2846.5,Shipped,Cash on Delivery
+885,917,2024-10-05,787.3,Delivered,PayPal
+886,471,2023-10-11,236.25,Shipped,Debit Card
+887,478,2024-10-09,1981.19,Shipped,Cash on Delivery
+888,599,2024-08-18,7420.82,Pending,Credit Card
+889,524,2024-04-30,3860.16,Shipped,PayPal
+890,306,2024-03-07,841.2,Pending,Cash on Delivery
+891,66,2024-04-14,2748.92,Shipped,PayPal
+892,656,2024-08-28,3092.77,Shipped,PayPal
+893,268,2023-04-03,799.81,Shipped,Debit Card
+894,154,2024-03-28,1435.19,Cancelled,Debit Card
+895,922,2023-10-29,2618.18,Pending,Cash on Delivery
+896,677,2024-04-24,4073.71,Shipped,Debit Card
+897,739,2023-10-21,1413.09,Pending,Cash on Delivery
+898,303,2024-07-19,4281.08,Shipped,Cash on Delivery
+899,415,2024-08-27,5097.38,Delivered,Credit Card
+900,598,2024-07-26,2705.6,Cancelled,Debit Card
+901,352,2024-08-07,624.95,Processing,Cash on Delivery
+902,929,2024-10-23,3168.93,Shipped,PayPal
+903,866,2024-09-13,3077.33,Processing,Debit Card
+904,301,2024-10-22,934.9,Pending,Cash on Delivery
+905,132,2024-09-28,1646.28,Shipped,Debit Card
+906,970,2024-06-26,4378.88,Shipped,Credit Card
+907,228,2024-10-24,1889.87,Shipped,Debit Card
+908,763,2024-10-25,895.75,Shipped,Cash on Delivery
+909,808,2024-07-03,2775.57,Shipped,PayPal
+910,267,2024-06-23,3412.36,Cancelled,PayPal
+911,475,2024-08-10,1932.56,Pending,Cash on Delivery
+912,55,2024-08-28,1182.92,Cancelled,Credit Card
+913,484,2023-11-29,266.91,Processing,Credit Card
+914,889,2024-07-23,1317.76,Delivered,PayPal
+915,424,2024-07-07,3166.23,Pending,Debit Card
+916,141,2023-10-28,2191.04,Processing,PayPal
+917,420,2024-03-31,1093.56,Cancelled,Cash on Delivery
+918,147,2024-10-03,2080.65,Shipped,Debit Card
+919,798,2024-10-11,2113.33,Pending,Cash on Delivery
+920,341,2024-04-02,2035.09,Processing,PayPal
+921,650,2024-03-10,2185.21,Pending,Credit Card
+922,463,2024-07-19,2894.32,Shipped,Debit Card
+923,780,2024-02-21,1251.92,Processing,Debit Card
+924,502,2024-11-28,4562.03,Pending,Debit Card
+925,630,2024-11-03,688.34,Delivered,Cash on Delivery
+926,414,2024-05-01,131.12,Delivered,Cash on Delivery
+927,393,2024-07-10,1974.48,Pending,Credit Card
+928,547,2024-11-01,2428.84,Processing,PayPal
+929,973,2023-11-09,661.32,Pending,PayPal
+930,776,2023-07-03,1441.18,Cancelled,Debit Card
+931,19,2024-08-21,1743.19,Pending,Debit Card
+932,232,2024-11-10,2956.74,Shipped,PayPal
+933,133,2023-04-05,2427.45,Pending,Cash on Delivery
+934,516,2024-09-29,1359.96,Cancelled,PayPal
+935,172,2024-10-21,950.27,Pending,Credit Card
+936,306,2024-05-05,1808.11,Shipped,Cash on Delivery
+937,746,2024-08-30,1311.75,Cancelled,PayPal
+938,445,2024-08-17,1633.82,Processing,PayPal
+939,924,2023-06-07,915.78,Delivered,PayPal
+940,769,2024-08-07,3664.57,Processing,Debit Card
+941,971,2024-05-07,5737.24,Delivered,Credit Card
+942,234,2024-09-17,745.46,Processing,Debit Card
+943,217,2024-11-18,4755.67,Pending,Debit Card
+944,127,2024-10-25,1485.71,Shipped,Credit Card
+945,385,2024-03-23,1018.42,Shipped,Credit Card
+946,609,2024-10-05,441.41,Pending,Credit Card
+947,670,2024-11-22,854.0,Pending,Credit Card
+948,707,2024-05-10,4287.65,Pending,Cash on Delivery
+949,455,2024-07-12,1916.54,Delivered,Credit Card
+950,561,2023-09-03,3541.18,Shipped,Cash on Delivery
+951,719,2024-09-10,2161.67,Processing,Debit Card
+952,712,2023-12-02,364.29,Pending,PayPal
+953,431,2024-01-09,484.21,Pending,PayPal
+954,638,2024-08-29,141.14,Cancelled,Debit Card
+955,429,2024-02-14,3826.66,Pending,Credit Card
+956,290,2024-04-27,1374.14,Pending,Credit Card
+957,510,2024-10-28,1137.48,Processing,Debit Card
+958,797,2024-05-29,1258.51,Shipped,Debit Card
+959,367,2024-08-21,1681.96,Delivered,PayPal
+960,165,2024-09-16,3015.33,Pending,Cash on Delivery
+961,933,2023-11-12,2065.41,Processing,Cash on Delivery
+962,339,2024-11-29,1316.3,Processing,Credit Card
+963,14,2024-03-19,3068.62,Pending,Credit Card
+964,856,2024-09-29,2572.53,Cancelled,Cash on Delivery
+965,153,2024-07-22,2939.76,Pending,Credit Card
+966,741,2024-07-03,1359.32,Pending,PayPal
+967,660,2024-01-14,2898.54,Processing,Cash on Delivery
+968,304,2024-08-14,3434.35,Shipped,Cash on Delivery
+969,52,2024-04-23,1155.55,Pending,Debit Card
+970,896,2024-09-15,2561.49,Pending,PayPal
+971,369,2024-10-31,1006.66,Shipped,Cash on Delivery
+972,757,2024-01-07,1591.55,Pending,Credit Card
+973,872,2024-07-24,3174.47,Pending,Credit Card
+974,873,2024-05-12,2578.81,Processing,Debit Card
+975,337,2023-10-27,418.59,Shipped,Cash on Delivery
+976,979,2024-08-10,1795.62,Cancelled,PayPal
+977,900,2024-06-29,2250.92,Pending,PayPal
+978,835,2024-09-17,2057.92,Shipped,Debit Card
+979,117,2024-06-24,2610.44,Delivered,Cash on Delivery
+980,986,2023-09-01,1607.71,Delivered,PayPal
+981,856,2024-10-20,1641.44,Delivered,Cash on Delivery
+982,820,2024-03-31,3502.67,Delivered,Debit Card
+983,116,2024-03-29,3100.4,Processing,Credit Card
+984,966,2024-05-28,3447.87,Processing,Credit Card
+985,427,2024-07-27,1871.65,Cancelled,Cash on Delivery
+986,822,2024-09-15,1226.91,Cancelled,Cash on Delivery
+987,186,2024-07-01,3177.75,Cancelled,Cash on Delivery
+988,798,2024-10-26,1050.17,Shipped,Credit Card
+989,884,2023-04-22,2942.94,Processing,Cash on Delivery
+990,943,2024-06-13,360.61,Delivered,Credit Card
+991,909,2024-09-19,1838.13,Delivered,Cash on Delivery
+992,48,2023-12-24,4326.41,Pending,PayPal
+993,671,2024-11-20,1153.19,Shipped,Credit Card
+994,722,2024-10-19,968.05,Cancelled,Debit Card
+995,979,2024-11-16,1077.79,Shipped,Credit Card
+996,444,2024-01-21,5902.97,Processing,Cash on Delivery
+997,355,2024-11-23,4724.56,Delivered,Debit Card
+998,860,2024-09-12,3106.37,Cancelled,Credit Card
+999,12,2024-10-29,2577.73,Processing,Cash on Delivery
+1000,873,2024-07-11,2727.58,Delivered,Debit Card
+1001,77,2023-12-04,2784.14,Delivered,PayPal
+1002,247,2024-10-23,2171.89,Shipped,PayPal
+1003,52,2024-02-16,725.95,Cancelled,Debit Card
+1004,564,2024-04-13,1580.45,Delivered,Cash on Delivery
+1005,837,2023-07-26,5090.54,Processing,Credit Card
+1006,471,2024-06-14,416.42,Delivered,Cash on Delivery
+1007,91,2024-01-13,1391.4,Delivered,Cash on Delivery
+1008,324,2024-10-05,830.57,Pending,Cash on Delivery
+1009,764,2024-06-11,2005.21,Pending,Credit Card
+1010,414,2024-02-23,1742.32,Delivered,Credit Card
+1011,571,2024-10-22,2014.99,Cancelled,Credit Card
+1012,846,2023-09-05,2375.79,Pending,PayPal
+1013,912,2024-02-12,661.72,Cancelled,Debit Card
+1014,671,2024-11-06,3729.37,Delivered,PayPal
+1015,373,2024-02-13,2030.97,Pending,Debit Card
+1016,865,2024-02-24,234.64,Delivered,PayPal
+1017,574,2024-07-25,1507.3,Cancelled,Cash on Delivery
+1018,734,2023-09-29,1545.38,Shipped,Cash on Delivery
+1019,117,2024-06-05,3962.98,Pending,Debit Card
+1020,3,2024-08-22,2001.1,Shipped,PayPal
+1021,850,2024-07-05,384.88,Shipped,PayPal
+1022,719,2024-02-29,5373.29,Pending,Credit Card
+1023,919,2024-11-29,4919.2,Processing,Cash on Delivery
+1024,144,2024-10-14,793.34,Delivered,Credit Card
+1025,261,2024-09-21,1423.96,Cancelled,Debit Card
+1026,193,2024-09-16,3265.2,Pending,Cash on Delivery
+1027,221,2023-12-18,240.7,Delivered,Debit Card
+1028,734,2023-10-23,1610.96,Shipped,Credit Card
+1029,776,2023-07-29,7526.36,Delivered,Credit Card
+1030,949,2024-03-10,315.4,Cancelled,Credit Card
+1031,791,2024-11-24,2620.23,Delivered,Cash on Delivery
+1032,675,2024-11-18,1393.88,Cancelled,Debit Card
+1033,987,2024-07-01,2309.01,Delivered,Credit Card
+1034,544,2024-11-04,643.0,Pending,Cash on Delivery
+1035,859,2024-07-31,2083.2,Cancelled,Cash on Delivery
+1036,947,2024-02-29,4054.72,Cancelled,Debit Card
+1037,709,2024-11-24,1851.28,Cancelled,Debit Card
+1038,749,2024-03-10,5698.01,Processing,Credit Card
+1039,397,2023-03-18,2379.9,Cancelled,PayPal
+1040,517,2024-10-05,3364.2,Delivered,Cash on Delivery
+1041,624,2024-04-21,77.48,Processing,PayPal
+1042,408,2024-04-17,2357.5,Shipped,PayPal
+1043,464,2024-07-30,673.02,Processing,Debit Card
+1044,423,2024-11-05,861.75,Cancelled,PayPal
+1045,864,2023-06-14,1009.41,Cancelled,PayPal
+1046,729,2024-02-19,1400.88,Cancelled,Debit Card
+1047,206,2024-11-18,2999.94,Processing,PayPal
+1048,704,2024-06-04,1280.41,Shipped,Debit Card
+1049,728,2024-11-16,1552.68,Processing,PayPal
+1050,728,2024-09-25,1174.17,Pending,PayPal
+1051,576,2024-09-03,514.32,Delivered,Cash on Delivery
+1052,691,2024-10-02,1895.59,Cancelled,PayPal
+1053,899,2024-11-24,529.19,Delivered,Credit Card
+1054,536,2023-09-15,2904.4,Pending,Credit Card
+1055,391,2024-09-27,1799.38,Processing,Credit Card
+1056,687,2024-10-03,721.16,Pending,Debit Card
+1057,274,2024-11-26,602.7,Processing,PayPal
+1058,700,2024-04-13,612.55,Shipped,Debit Card
+1059,860,2024-10-20,1857.42,Pending,PayPal
+1060,209,2024-10-21,454.71,Cancelled,Credit Card
+1061,368,2023-09-19,1731.64,Delivered,Credit Card
+1062,631,2024-09-11,349.28,Cancelled,Debit Card
+1063,761,2024-04-23,3354.84,Cancelled,Cash on Delivery
+1064,244,2024-10-24,2723.77,Cancelled,PayPal
+1065,710,2024-08-16,1057.72,Pending,Cash on Delivery
+1066,397,2023-11-07,3221.06,Delivered,PayPal
+1067,990,2024-10-20,3615.7,Cancelled,Credit Card
+1068,14,2024-09-05,1497.9,Shipped,Debit Card
+1069,636,2024-09-19,5722.68,Delivered,Debit Card
+1070,934,2024-10-03,1285.08,Shipped,Debit Card
+1071,795,2024-04-18,3812.78,Processing,PayPal
+1072,460,2024-01-31,4486.67,Processing,Credit Card
+1073,192,2024-08-30,2964.15,Processing,Credit Card
+1074,387,2024-11-21,1718.55,Pending,Cash on Delivery
+1075,286,2024-11-24,1246.52,Cancelled,PayPal
+1076,134,2023-10-05,2795.38,Processing,PayPal
+1077,6,2024-06-30,270.31,Shipped,Cash on Delivery
+1078,727,2024-05-24,696.84,Processing,Credit Card
+1079,158,2024-05-26,3482.31,Shipped,Credit Card
+1080,793,2024-08-01,986.59,Cancelled,PayPal
+1081,503,2024-11-20,551.27,Cancelled,PayPal
+1082,75,2024-07-21,663.88,Shipped,Debit Card
+1083,980,2024-09-18,1956.32,Processing,Credit Card
+1084,806,2024-10-26,4566.53,Cancelled,Debit Card
+1085,426,2024-05-13,253.39,Cancelled,Cash on Delivery
+1086,95,2024-11-13,350.22,Shipped,Debit Card
+1087,905,2024-06-14,2447.03,Processing,PayPal
+1088,340,2024-10-06,467.45,Shipped,PayPal
+1089,224,2024-11-12,1301.0,Cancelled,Cash on Delivery
+1090,575,2024-11-06,3805.64,Pending,Credit Card
+1091,685,2024-11-03,4302.67,Shipped,Cash on Delivery
+1092,247,2024-11-27,463.63,Cancelled,Debit Card
+1093,982,2024-03-04,800.38,Pending,PayPal
+1094,391,2024-06-19,1469.46,Pending,Cash on Delivery
+1095,263,2024-11-12,1468.67,Cancelled,PayPal
+1096,26,2024-09-24,273.89,Cancelled,PayPal
+1097,527,2024-11-29,1121.26,Cancelled,Cash on Delivery
+1098,499,2024-07-24,372.13,Pending,PayPal
+1099,920,2024-10-30,2847.9,Processing,PayPal
+1100,527,2024-10-22,413.18,Pending,Credit Card
+1101,172,2024-09-24,3443.07,Cancelled,Credit Card
+1102,642,2024-01-20,1234.5,Pending,Debit Card
+1103,687,2024-09-16,1805.52,Processing,Cash on Delivery
+1104,856,2024-10-29,1353.54,Pending,Debit Card
+1105,551,2024-03-26,2637.48,Delivered,Credit Card
+1106,765,2024-08-29,550.0,Processing,Credit Card
+1107,471,2023-11-05,942.16,Shipped,Credit Card
+1108,90,2024-05-26,2181.76,Pending,Credit Card
+1109,183,2024-10-27,1924.69,Shipped,Credit Card
+1110,589,2024-08-31,2836.59,Processing,PayPal
+1111,418,2024-10-07,846.91,Delivered,Cash on Delivery
+1112,646,2023-10-04,1545.34,Delivered,Cash on Delivery
+1113,324,2024-11-19,2333.3,Pending,Cash on Delivery
+1114,690,2024-04-05,2337.25,Pending,Credit Card
+1115,657,2024-11-28,1305.64,Cancelled,Credit Card
+1116,775,2023-10-27,680.6,Cancelled,Credit Card
+1117,718,2023-08-29,127.71,Pending,PayPal
+1118,951,2024-03-21,1998.72,Cancelled,Credit Card
+1119,297,2023-06-20,670.73,Shipped,Credit Card
+1120,289,2024-06-02,1822.07,Delivered,Cash on Delivery
+1121,405,2024-10-15,2736.92,Pending,Cash on Delivery
+1122,161,2024-10-29,57.99,Cancelled,Debit Card
+1123,140,2024-08-09,2810.64,Delivered,PayPal
+1124,984,2024-11-03,1348.3,Processing,PayPal
+1125,694,2024-05-11,74.73,Shipped,Credit Card
+1126,567,2024-08-17,392.75,Cancelled,Debit Card
+1127,127,2024-02-29,4948.64,Pending,Credit Card
+1128,587,2024-02-27,4193.62,Cancelled,Cash on Delivery
+1129,551,2024-03-12,859.12,Cancelled,Credit Card
+1130,313,2024-04-02,2265.54,Processing,PayPal
+1131,217,2023-12-03,4631.54,Delivered,Debit Card
+1132,165,2023-07-18,3132.08,Processing,Debit Card
+1133,632,2024-11-12,704.65,Shipped,Debit Card
+1134,118,2024-10-08,2107.8,Processing,Credit Card
+1135,872,2023-03-08,3065.18,Cancelled,Cash on Delivery
+1136,661,2024-04-28,259.16,Cancelled,Credit Card
+1137,298,2024-05-08,1982.62,Pending,PayPal
+1138,101,2023-04-15,1453.68,Processing,Cash on Delivery
+1139,975,2024-07-26,277.64,Shipped,PayPal
+1140,132,2024-08-19,1607.87,Processing,Credit Card
+1141,292,2024-09-10,2426.31,Cancelled,Credit Card
+1142,922,2023-11-17,295.16,Processing,PayPal
+1143,498,2024-04-19,839.39,Delivered,PayPal
+1144,632,2024-11-12,1986.41,Shipped,Debit Card
+1145,580,2023-09-11,1955.22,Cancelled,PayPal
+1146,828,2023-11-07,183.32,Shipped,Cash on Delivery
+1147,173,2024-11-27,2571.68,Pending,PayPal
+1148,253,2024-06-02,2673.08,Processing,Cash on Delivery
+1149,284,2024-09-17,7594.71,Shipped,Debit Card
+1150,696,2023-07-11,2278.77,Shipped,Cash on Delivery
+1151,474,2024-10-16,871.6,Delivered,PayPal
+1152,794,2024-09-22,457.7,Shipped,Cash on Delivery
+1153,565,2024-09-28,2139.65,Pending,Debit Card
+1154,662,2024-11-28,2224.14,Cancelled,Credit Card
+1155,862,2024-09-24,3600.94,Shipped,Debit Card
+1156,913,2024-10-22,1471.68,Cancelled,Debit Card
+1157,270,2024-08-27,1726.79,Pending,Credit Card
+1158,914,2024-03-01,2824.46,Pending,Credit Card
+1159,833,2023-06-08,3621.44,Cancelled,Cash on Delivery
+1160,788,2024-10-05,532.43,Cancelled,Debit Card
+1161,929,2024-06-25,5584.86,Pending,PayPal
+1162,557,2024-11-25,1960.77,Cancelled,Cash on Delivery
+1163,670,2024-11-10,993.33,Processing,PayPal
+1164,402,2024-03-29,1793.95,Processing,PayPal
+1165,138,2024-03-06,4198.86,Delivered,Credit Card
+1166,407,2024-07-24,526.76,Shipped,Credit Card
+1167,679,2023-08-28,1311.15,Processing,Debit Card
+1168,776,2024-04-11,973.23,Cancelled,Debit Card
+1169,457,2024-06-06,2342.73,Processing,Debit Card
+1170,580,2024-01-30,1700.04,Cancelled,Debit Card
+1171,754,2024-05-01,945.72,Delivered,PayPal
+1172,42,2024-09-24,891.37,Processing,Cash on Delivery
+1173,238,2024-08-19,1199.32,Pending,PayPal
+1174,379,2024-11-11,1317.76,Processing,Credit Card
+1175,685,2024-07-22,1235.37,Processing,PayPal
+1176,398,2024-09-10,6118.17,Delivered,Cash on Delivery
+1177,903,2024-11-06,1726.12,Pending,Credit Card
+1178,665,2023-01-15,3647.03,Shipped,Credit Card
+1179,721,2024-10-20,1176.87,Cancelled,PayPal
+1180,855,2024-03-23,3587.0,Shipped,Debit Card
+1181,386,2024-08-15,2007.77,Delivered,PayPal
+1182,602,2024-06-16,2127.98,Pending,PayPal
+1183,386,2024-07-22,4435.65,Processing,Cash on Delivery
+1184,362,2024-03-30,4018.91,Shipped,Cash on Delivery
+1185,812,2024-05-28,1212.0,Delivered,Credit Card
+1186,514,2024-03-12,1089.52,Processing,Cash on Delivery
+1187,170,2024-05-11,2742.21,Processing,Credit Card
+1188,527,2024-10-27,2994.96,Shipped,Debit Card
+1189,154,2024-09-17,319.22,Processing,Debit Card
+1190,371,2024-02-08,318.31,Cancelled,Credit Card
+1191,677,2024-11-15,2542.6,Processing,Cash on Delivery
+1192,831,2024-11-25,3074.88,Shipped,Credit Card
+1193,494,2024-06-24,494.59,Delivered,Cash on Delivery
+1194,216,2024-03-14,1344.27,Cancelled,Debit Card
+1195,663,2024-10-14,3139.93,Delivered,Credit Card
+1196,250,2024-11-28,467.55,Pending,Debit Card
+1197,588,2024-07-05,3514.55,Cancelled,Debit Card
+1198,138,2024-01-30,2251.55,Cancelled,Credit Card
+1199,913,2024-07-19,146.54,Cancelled,Debit Card
+1200,58,2024-06-15,3120.1,Processing,PayPal
+1201,945,2024-05-10,3310.9,Processing,Cash on Delivery
+1202,614,2024-02-22,2852.01,Cancelled,Credit Card
+1203,900,2024-10-03,13.52,Shipped,Credit Card
+1204,222,2024-06-07,449.62,Delivered,Cash on Delivery
+1205,889,2023-06-21,943.48,Delivered,Debit Card
+1206,225,2024-09-11,2849.59,Delivered,Debit Card
+1207,814,2024-08-21,1892.16,Cancelled,Debit Card
+1208,639,2024-04-05,3147.96,Cancelled,PayPal
+1209,172,2024-08-08,1442.3,Shipped,Cash on Delivery
+1210,611,2024-08-15,2198.62,Cancelled,Credit Card
+1211,236,2024-09-13,650.96,Delivered,Cash on Delivery
+1212,136,2024-04-27,2224.83,Pending,Credit Card
+1213,208,2024-01-21,2299.86,Cancelled,Cash on Delivery
+1214,847,2024-02-02,475.98,Processing,Credit Card
+1215,182,2024-09-08,408.43,Delivered,Credit Card
+1216,899,2024-08-18,2193.39,Cancelled,Credit Card
+1217,96,2024-08-17,1971.74,Delivered,Debit Card
+1218,924,2023-12-04,932.15,Cancelled,Credit Card
+1219,919,2024-11-29,1987.5,Delivered,Cash on Delivery
+1220,380,2024-09-03,388.31,Pending,Cash on Delivery
+1221,235,2024-05-26,695.76,Delivered,Cash on Delivery
+1222,359,2024-08-16,228.08,Cancelled,Credit Card
+1223,436,2024-11-22,2765.14,Processing,PayPal
+1224,489,2024-02-25,394.32,Processing,Credit Card
+1225,291,2024-04-24,3790.56,Cancelled,Cash on Delivery
+1226,264,2024-02-18,1802.62,Processing,Credit Card
+1227,727,2024-07-05,5296.35,Pending,Credit Card
+1228,533,2023-08-24,2643.78,Pending,Cash on Delivery
+1229,671,2024-10-30,3138.85,Processing,PayPal
+1230,419,2023-09-18,2428.3,Shipped,Credit Card
+1231,159,2024-09-23,2531.07,Delivered,PayPal
+1232,268,2024-01-20,3368.63,Cancelled,Cash on Delivery
+1233,579,2024-10-06,1365.35,Shipped,PayPal
+1234,697,2024-10-19,471.03,Delivered,Debit Card
+1235,424,2024-07-31,1587.61,Cancelled,Cash on Delivery
+1236,184,2024-04-09,4278.7,Shipped,Cash on Delivery
+1237,260,2024-11-23,4725.44,Shipped,PayPal
+1238,793,2024-11-06,1270.78,Delivered,Debit Card
+1239,876,2023-08-02,3025.9,Pending,Debit Card
+1240,458,2024-08-02,3914.35,Processing,Credit Card
+1241,220,2024-11-19,2580.26,Cancelled,Cash on Delivery
+1242,805,2024-11-25,1429.66,Shipped,Credit Card
+1243,165,2024-06-16,1122.51,Delivered,Credit Card
+1244,824,2024-11-28,1190.29,Pending,Debit Card
+1245,483,2024-11-02,619.29,Cancelled,Cash on Delivery
+1246,91,2024-06-14,747.87,Pending,PayPal
+1247,228,2024-09-18,333.95,Shipped,Credit Card
+1248,624,2024-05-19,134.5,Pending,Cash on Delivery
+1249,954,2024-11-14,2624.74,Delivered,PayPal
+1250,729,2024-04-23,231.78,Cancelled,Credit Card
+1251,969,2024-07-18,3301.17,Processing,Cash on Delivery
+1252,450,2024-08-22,909.46,Pending,Debit Card
+1253,871,2023-12-23,583.12,Cancelled,PayPal
+1254,200,2024-09-23,475.56,Pending,Debit Card
+1255,630,2023-05-31,2081.77,Processing,Credit Card
+1256,369,2024-11-21,1981.19,Processing,Credit Card
+1257,1000,2024-10-19,2288.55,Processing,Credit Card
+1258,283,2024-01-14,3268.5,Delivered,PayPal
+1259,686,2023-08-03,64.34,Delivered,Cash on Delivery
+1260,601,2024-05-04,2634.6,Processing,Credit Card
+1261,755,2024-11-28,2651.35,Pending,Credit Card
+1262,563,2024-09-02,285.1,Shipped,PayPal
+1263,356,2024-07-14,989.18,Shipped,Debit Card
+1264,621,2024-11-24,1498.83,Processing,Cash on Delivery
+1265,953,2024-07-26,524.36,Delivered,Credit Card
+1266,268,2024-11-25,740.46,Processing,Cash on Delivery
+1267,519,2024-07-01,3288.78,Pending,Credit Card
+1268,516,2024-10-18,2515.96,Shipped,PayPal
+1269,970,2024-11-25,1213.23,Pending,PayPal
+1270,898,2024-03-21,2633.4,Cancelled,PayPal
+1271,711,2024-10-25,2021.89,Delivered,Cash on Delivery
+1272,577,2024-08-13,2218.33,Delivered,Debit Card
+1273,776,2023-08-26,873.7,Shipped,Cash on Delivery
+1274,698,2023-11-27,1578.3,Delivered,Credit Card
+1275,494,2024-04-03,124.02,Pending,PayPal
+1276,70,2023-12-29,2132.05,Delivered,Debit Card
+1277,694,2024-04-23,3592.1,Processing,PayPal
+1278,423,2024-11-17,3520.93,Shipped,Credit Card
+1279,718,2023-07-06,2299.08,Shipped,Debit Card
+1280,295,2024-05-30,1534.62,Pending,Cash on Delivery
+1281,690,2024-06-13,2445.4,Shipped,Credit Card
+1282,568,2024-09-24,829.63,Processing,Cash on Delivery
+1283,322,2023-07-23,1963.8,Shipped,Debit Card
+1284,916,2024-03-09,3348.03,Cancelled,PayPal
+1285,188,2023-08-19,2865.95,Processing,Cash on Delivery
+1286,755,2024-02-14,1031.64,Processing,Debit Card
+1287,754,2024-08-24,1085.52,Processing,PayPal
+1288,212,2024-11-02,306.09,Processing,Debit Card
+1289,855,2024-10-01,2182.23,Processing,PayPal
+1290,160,2024-06-08,1378.48,Pending,Credit Card
+1291,943,2023-12-18,3826.37,Pending,Cash on Delivery
+1292,629,2024-11-26,3100.93,Pending,Credit Card
+1293,869,2024-08-31,2503.84,Delivered,PayPal
+1294,636,2024-11-02,1607.06,Shipped,Cash on Delivery
+1295,920,2024-08-09,1097.38,Cancelled,PayPal
+1296,503,2024-10-07,2785.19,Processing,PayPal
+1297,408,2024-01-30,1396.62,Processing,Debit Card
+1298,56,2024-06-05,3847.96,Cancelled,Cash on Delivery
+1299,490,2024-03-07,927.36,Cancelled,Credit Card
+1300,515,2024-11-28,3543.74,Shipped,Cash on Delivery
+1301,882,2024-03-14,2302.79,Processing,Cash on Delivery
+1302,1000,2024-09-30,1355.24,Pending,Cash on Delivery
+1303,324,2024-10-23,1008.05,Pending,Credit Card
+1304,691,2024-10-14,1755.2,Processing,Cash on Delivery
+1305,595,2023-10-23,4952.4,Pending,PayPal
+1306,371,2024-07-18,19.29,Cancelled,PayPal
+1307,192,2024-06-30,649.04,Cancelled,PayPal
+1308,243,2024-05-26,926.74,Shipped,Cash on Delivery
+1309,982,2024-10-08,781.59,Cancelled,PayPal
+1310,375,2024-07-15,2032.99,Processing,Cash on Delivery
+1311,435,2024-10-27,825.39,Processing,Cash on Delivery
+1312,718,2024-01-02,779.38,Shipped,PayPal
+1313,875,2024-05-18,765.1,Delivered,PayPal
+1314,462,2024-08-06,1493.1,Processing,Debit Card
+1315,590,2024-03-06,2826.97,Processing,Credit Card
+1316,739,2023-09-17,905.52,Shipped,Debit Card
+1317,569,2024-07-14,472.89,Delivered,Cash on Delivery
+1318,201,2024-07-25,2062.54,Processing,Debit Card
+1319,485,2024-01-15,3096.2,Pending,Debit Card
+1320,432,2024-05-07,2198.35,Delivered,Debit Card
+1321,915,2024-05-18,2670.28,Cancelled,PayPal
+1322,805,2024-07-11,1394.85,Delivered,PayPal
+1323,257,2024-10-30,187.88,Cancelled,Credit Card
+1324,408,2024-07-01,3969.55,Pending,Debit Card
+1325,62,2024-09-16,1046.5,Processing,PayPal
+1326,488,2024-03-17,1903.12,Pending,Cash on Delivery
+1327,763,2024-11-10,1330.62,Shipped,PayPal
+1328,370,2023-08-18,2439.95,Shipped,PayPal
+1329,353,2023-06-14,2395.46,Pending,Cash on Delivery
+1330,125,2024-11-28,1194.98,Shipped,Debit Card
+1331,591,2024-11-04,137.19,Cancelled,Debit Card
+1332,800,2024-06-06,1643.21,Shipped,PayPal
+1333,333,2024-04-12,3651.07,Cancelled,Cash on Delivery
+1334,794,2024-11-17,1394.85,Delivered,Credit Card
+1335,391,2024-07-29,223.81,Cancelled,PayPal
+1336,475,2024-10-30,4145.23,Processing,Debit Card
+1337,656,2023-04-04,916.68,Shipped,Cash on Delivery
+1338,647,2024-11-17,147.45,Cancelled,Cash on Delivery
+1339,870,2024-06-17,2377.65,Pending,Credit Card
+1340,166,2024-08-27,589.05,Shipped,Debit Card
+1341,322,2024-08-07,1047.28,Shipped,PayPal
+1342,728,2024-05-28,307.91,Shipped,Cash on Delivery
+1343,278,2024-07-16,2411.44,Delivered,PayPal
+1344,766,2024-08-20,1736.17,Cancelled,Cash on Delivery
+1345,424,2024-09-09,1880.74,Processing,Debit Card
+1346,875,2024-07-17,1651.79,Pending,Debit Card
+1347,746,2024-09-18,1431.09,Processing,PayPal
+1348,964,2024-10-15,638.98,Pending,Debit Card
+1349,171,2024-07-22,468.21,Delivered,Credit Card
+1350,98,2024-10-08,1821.08,Pending,Cash on Delivery
+1351,562,2023-04-20,6780.48,Pending,Credit Card
+1352,790,2023-11-03,4657.53,Delivered,Credit Card
+1353,107,2023-09-23,499.69,Shipped,Debit Card
+1354,87,2024-10-18,2420.06,Delivered,PayPal
+1355,235,2024-11-07,1611.51,Processing,PayPal
+1356,454,2024-08-22,1274.73,Processing,Debit Card
+1357,540,2024-01-19,1229.89,Processing,Credit Card
+1358,36,2024-08-13,2990.88,Shipped,PayPal
+1359,885,2024-08-31,1349.17,Delivered,Cash on Delivery
+1360,999,2023-08-23,895.75,Cancelled,PayPal
+1361,562,2024-10-28,2335.29,Delivered,Debit Card
+1362,993,2023-08-13,3025.88,Cancelled,Debit Card
+1363,606,2023-07-18,2356.49,Cancelled,Cash on Delivery
+1364,647,2024-11-15,491.62,Cancelled,Cash on Delivery
+1365,537,2024-09-12,4406.99,Cancelled,PayPal
+1366,931,2023-10-19,1673.12,Shipped,Cash on Delivery
+1367,553,2024-08-27,1859.44,Processing,Credit Card
+1368,453,2024-08-02,2485.89,Shipped,PayPal
+1369,423,2024-11-23,2130.79,Shipped,Debit Card
+1370,311,2024-08-06,4352.86,Pending,Credit Card
+1371,536,2024-04-14,1626.74,Processing,PayPal
+1372,294,2024-09-17,2415.34,Delivered,Credit Card
+1373,705,2024-03-14,782.19,Delivered,Cash on Delivery
+1374,307,2024-07-20,636.62,Pending,Cash on Delivery
+1375,818,2024-03-05,2342.08,Shipped,Debit Card
+1376,816,2023-09-25,657.12,Pending,PayPal
+1377,194,2024-10-23,2749.9,Delivered,Cash on Delivery
+1378,405,2024-06-06,1096.89,Processing,Debit Card
+1379,733,2024-11-05,2388.38,Delivered,Cash on Delivery
+1380,226,2024-05-03,479.49,Shipped,Credit Card
+1381,433,2024-03-20,991.56,Processing,PayPal
+1382,292,2023-12-04,1319.84,Cancelled,PayPal
+1383,423,2024-11-18,1432.35,Processing,Credit Card
+1384,187,2024-05-09,4133.15,Processing,PayPal
+1385,114,2024-09-21,1648.92,Delivered,Cash on Delivery
+1386,279,2024-07-14,279.0,Cancelled,Cash on Delivery
+1387,193,2023-04-11,377.24,Shipped,Credit Card
+1388,156,2024-04-17,2803.7,Pending,Credit Card
+1389,191,2024-05-23,2761.98,Pending,PayPal
+1390,276,2024-11-12,1994.56,Processing,Cash on Delivery
+1391,745,2023-12-25,880.18,Pending,Debit Card
+1392,93,2024-11-16,1042.25,Processing,Credit Card
+1393,506,2024-11-17,472.73,Processing,PayPal
+1394,431,2024-06-07,1653.23,Shipped,Cash on Delivery
+1395,381,2024-04-25,73.2,Delivered,Credit Card
+1396,339,2024-10-26,2565.73,Pending,Debit Card
+1397,58,2024-06-09,3259.86,Shipped,Cash on Delivery
+1398,74,2024-09-16,2639.22,Cancelled,Cash on Delivery
+1399,186,2024-08-11,2534.9,Processing,PayPal
+1400,837,2023-04-11,2497.17,Delivered,Credit Card
+1401,125,2024-11-28,197.97,Processing,Cash on Delivery
+1402,790,2024-08-01,1850.85,Delivered,Debit Card
+1403,756,2024-04-19,2333.3,Pending,Debit Card
+1404,472,2023-04-30,1726.68,Pending,Debit Card
+1405,485,2024-09-29,569.37,Delivered,PayPal
+1406,959,2024-07-14,1876.2,Shipped,Debit Card
+1407,645,2024-07-15,1549.34,Pending,Credit Card
+1408,260,2024-07-30,569.0,Delivered,PayPal
+1409,204,2024-11-05,2871.06,Shipped,Credit Card
+1410,885,2024-11-25,2472.48,Processing,Credit Card
+1411,242,2024-11-09,1949.12,Delivered,PayPal
+1412,16,2024-11-13,405.06,Processing,PayPal
+1413,599,2024-11-28,1664.14,Pending,Cash on Delivery
+1414,809,2024-09-23,30.82,Processing,Credit Card
+1415,993,2024-05-22,1444.48,Pending,Cash on Delivery
+1416,705,2024-09-01,1408.12,Cancelled,Debit Card
+1417,381,2024-05-18,1069.15,Pending,Debit Card
+1418,162,2024-09-28,680.62,Delivered,Credit Card
+1419,703,2024-11-27,793.34,Cancelled,PayPal
+1420,954,2024-10-27,2395.12,Pending,Credit Card
+1421,365,2024-10-28,1699.85,Processing,Credit Card
+1422,129,2024-07-20,3301.97,Delivered,Debit Card
+1423,325,2023-08-15,4378.01,Cancelled,PayPal
+1424,825,2024-06-13,6157.66,Delivered,Debit Card
+1425,22,2024-10-15,2345.82,Delivered,PayPal
+1426,742,2023-06-23,2860.01,Processing,PayPal
+1427,921,2024-10-12,1152.48,Pending,Cash on Delivery
+1428,724,2024-01-15,2421.88,Delivered,PayPal
+1429,556,2024-07-25,1412.35,Delivered,Debit Card
+1430,581,2024-11-13,1200.39,Processing,PayPal
+1431,332,2024-01-01,168.94,Delivered,PayPal
+1432,889,2023-11-20,2478.6,Cancelled,Debit Card
+1433,71,2024-10-14,7022.66,Cancelled,Debit Card
+1434,461,2024-01-10,3746.64,Shipped,PayPal
+1435,555,2024-11-03,2524.65,Shipped,Cash on Delivery
+1436,1,2024-11-21,133.35,Cancelled,Cash on Delivery
+1437,752,2023-07-05,5166.64,Processing,Credit Card
+1438,635,2024-09-09,2399.97,Shipped,Debit Card
+1439,329,2024-04-21,1400.44,Pending,Cash on Delivery
+1440,195,2023-05-19,1375.13,Cancelled,Cash on Delivery
+1441,785,2024-10-01,2412.95,Cancelled,Debit Card
+1442,628,2023-04-24,1827.0,Shipped,PayPal
+1443,420,2024-02-20,768.29,Shipped,Credit Card
+1444,99,2024-07-14,1004.48,Cancelled,Credit Card
+1445,45,2023-08-21,2549.05,Processing,Debit Card
+1446,895,2023-12-03,3248.14,Pending,Debit Card
+1447,110,2024-04-22,2947.92,Delivered,Debit Card
+1448,102,2024-09-21,1834.27,Pending,Cash on Delivery
+1449,674,2024-10-09,433.5,Delivered,PayPal
+1450,51,2024-07-14,1336.31,Shipped,Debit Card
+1451,621,2024-04-14,3235.24,Pending,Credit Card
+1452,953,2024-07-19,1664.07,Processing,Cash on Delivery
+1453,951,2024-11-13,1364.72,Pending,Cash on Delivery
+1454,821,2024-08-01,714.4,Pending,PayPal
+1455,572,2024-10-01,1622.6,Delivered,PayPal
+1456,814,2024-05-24,1470.56,Pending,PayPal
+1457,542,2023-08-31,1356.26,Pending,Credit Card
+1458,855,2024-02-24,3142.55,Shipped,Credit Card
+1459,968,2024-10-01,2001.05,Processing,Credit Card
+1460,104,2023-09-06,5047.67,Processing,Cash on Delivery
+1461,195,2024-11-11,1008.7,Processing,Debit Card
+1462,584,2024-09-03,2263.92,Processing,Cash on Delivery
+1463,765,2023-07-11,1742.95,Pending,PayPal
+1464,691,2024-11-29,269.18,Delivered,Cash on Delivery
+1465,905,2024-09-03,1670.76,Pending,Debit Card
+1466,812,2024-05-22,1765.64,Processing,Cash on Delivery
+1467,517,2024-10-24,4303.69,Shipped,Debit Card
+1468,547,2024-10-02,941.66,Cancelled,Cash on Delivery
+1469,956,2024-06-21,179.04,Shipped,PayPal
+1470,564,2024-08-15,1311.02,Shipped,PayPal
+1471,423,2024-11-15,1493.94,Delivered,PayPal
+1472,624,2024-03-11,1112.51,Processing,Debit Card
+1473,385,2023-09-25,2829.47,Cancelled,PayPal
+1474,369,2024-11-23,301.03,Delivered,Cash on Delivery
+1475,983,2024-10-27,4440.13,Delivered,Credit Card
+1476,744,2024-04-30,796.5,Pending,PayPal
+1477,611,2024-09-27,2605.15,Pending,Debit Card
+1478,912,2023-12-16,1084.35,Shipped,Credit Card
+1479,308,2024-03-06,1173.59,Processing,Debit Card
+1480,877,2024-08-13,682.59,Shipped,Credit Card
+1481,791,2024-11-29,3194.8,Shipped,Debit Card
+1482,97,2024-11-15,2302.37,Pending,Cash on Delivery
+1483,365,2024-10-27,2342.23,Processing,Debit Card
+1484,272,2023-11-06,1981.37,Shipped,Debit Card
+1485,239,2024-11-06,617.66,Shipped,PayPal
+1486,95,2024-11-15,494.26,Cancelled,Cash on Delivery
+1487,583,2024-06-05,1372.95,Processing,Credit Card
+1488,741,2024-09-17,521.55,Shipped,Cash on Delivery
+1489,178,2024-11-27,506.37,Delivered,Credit Card
+1490,610,2023-07-20,955.68,Shipped,Credit Card
+1491,749,2023-12-30,413.0,Cancelled,Cash on Delivery
+1492,81,2024-03-26,3492.86,Pending,PayPal
+1493,357,2024-05-10,3713.4,Delivered,Cash on Delivery
+1494,953,2024-10-27,962.08,Pending,Debit Card
+1495,766,2024-05-23,2234.83,Cancelled,Credit Card
+1496,650,2024-09-10,45.58,Delivered,Credit Card
+1497,313,2024-06-23,2949.43,Cancelled,Credit Card
+1498,327,2024-11-19,26.51,Cancelled,Debit Card
+1499,335,2024-07-01,4321.89,Cancelled,Debit Card
+1500,157,2024-11-27,1009.25,Pending,Cash on Delivery
+1501,995,2024-08-30,1720.67,Delivered,Credit Card
+1502,228,2024-07-09,1157.08,Delivered,PayPal
+1503,806,2024-11-17,1802.35,Delivered,Debit Card
+1504,136,2024-01-16,752.96,Shipped,Credit Card
+1505,488,2024-03-21,278.97,Cancelled,Credit Card
+1506,562,2024-05-14,108.87,Delivered,PayPal
+1507,88,2024-05-12,3086.52,Delivered,Cash on Delivery
+1508,793,2024-07-31,169.22,Processing,Debit Card
+1509,493,2024-06-28,1345.21,Cancelled,Debit Card
+1510,500,2024-09-26,2122.0,Delivered,Debit Card
+1511,575,2024-10-24,1602.64,Cancelled,Debit Card
+1512,249,2023-02-28,2111.24,Pending,PayPal
+1513,796,2023-07-12,1313.27,Delivered,PayPal
+1514,702,2024-08-16,4013.8,Cancelled,Credit Card
+1515,116,2024-07-25,2308.96,Delivered,Cash on Delivery
+1516,375,2024-01-19,1125.06,Shipped,Debit Card
+1517,329,2024-10-25,3002.45,Shipped,Credit Card
+1518,789,2024-10-19,1100.3,Shipped,Debit Card
+1519,359,2024-11-18,146.07,Cancelled,Cash on Delivery
+1520,639,2024-08-19,1483.78,Processing,Cash on Delivery
+1521,46,2024-05-04,2044.71,Processing,Debit Card
+1522,702,2024-01-28,4429.77,Shipped,Debit Card
+1523,776,2024-01-12,2392.76,Pending,Credit Card
+1524,758,2024-11-02,635.0,Pending,Debit Card
+1525,972,2024-10-26,1649.87,Cancelled,Debit Card
+1526,890,2024-03-15,867.64,Shipped,Credit Card
+1527,352,2024-11-05,2923.71,Pending,PayPal
+1528,461,2024-09-28,2985.09,Delivered,Credit Card
+1529,340,2024-04-27,618.51,Processing,Debit Card
+1530,209,2023-04-07,759.18,Cancelled,PayPal
+1531,562,2024-05-25,3541.09,Delivered,Debit Card
+1532,712,2024-08-17,3062.55,Pending,Cash on Delivery
+1533,597,2024-07-27,1649.05,Cancelled,Credit Card
+1534,262,2024-10-27,1276.88,Processing,Credit Card
+1535,291,2024-06-15,779.19,Processing,PayPal
+1536,55,2023-05-22,2590.77,Delivered,Credit Card
+1537,69,2024-11-09,848.64,Delivered,PayPal
+1538,679,2024-11-13,4998.96,Shipped,Credit Card
+1539,20,2024-11-19,954.7,Shipped,Cash on Delivery
+1540,237,2024-08-06,5135.76,Delivered,Credit Card
+1541,926,2023-07-21,667.32,Shipped,Cash on Delivery
+1542,888,2024-11-27,3219.27,Cancelled,Credit Card
+1543,191,2024-09-02,1167.81,Processing,Cash on Delivery
+1544,575,2024-11-08,544.02,Pending,Credit Card
+1545,254,2024-05-09,755.54,Cancelled,PayPal
+1546,342,2024-08-02,2055.36,Delivered,Cash on Delivery
+1547,763,2024-11-28,3817.89,Processing,Credit Card
+1548,356,2024-09-12,2994.31,Shipped,PayPal
+1549,641,2023-01-11,1251.66,Shipped,Debit Card
+1550,514,2024-08-24,1222.48,Shipped,Credit Card
+1551,641,2023-06-23,533.2,Shipped,Cash on Delivery
+1552,912,2024-09-01,1269.2,Pending,PayPal
+1553,231,2024-02-09,2300.74,Processing,PayPal
+1554,919,2024-11-29,2216.47,Delivered,Debit Card
+1555,90,2023-04-15,1594.75,Delivered,Debit Card
+1556,428,2024-09-27,3044.64,Processing,Debit Card
+1557,437,2024-07-15,1892.68,Shipped,PayPal
+1558,460,2023-11-30,1205.95,Cancelled,Debit Card
+1559,212,2024-05-19,2062.61,Processing,Debit Card
+1560,884,2024-11-28,2459.26,Processing,PayPal
+1561,706,2024-10-29,442.71,Cancelled,Debit Card
+1562,441,2024-02-01,815.82,Processing,Debit Card
+1563,326,2024-07-16,6501.77,Pending,Credit Card
+1564,189,2023-08-13,2738.47,Shipped,Debit Card
+1565,745,2024-01-29,682.4,Pending,PayPal
+1566,902,2024-09-02,687.76,Delivered,Cash on Delivery
+1567,311,2024-02-12,1248.19,Delivered,PayPal
+1568,156,2024-09-28,658.2,Processing,Credit Card
+1569,135,2024-02-12,2269.08,Processing,Credit Card
+1570,781,2023-03-05,6275.04,Cancelled,PayPal
+1571,621,2024-06-07,2835.13,Cancelled,Debit Card
+1572,611,2024-09-28,1587.23,Processing,Debit Card
+1573,704,2024-07-18,588.74,Pending,PayPal
+1574,82,2024-07-19,2979.56,Delivered,Debit Card
+1575,515,2024-11-24,1650.87,Cancelled,Cash on Delivery
+1576,730,2024-04-10,2176.43,Shipped,Debit Card
+1577,873,2024-06-29,4882.12,Delivered,Cash on Delivery
+1578,486,2024-04-24,1437.56,Processing,Debit Card
+1579,198,2024-11-18,2075.1,Processing,Credit Card
+1580,419,2023-07-09,781.84,Pending,PayPal
+1581,974,2024-11-28,1912.74,Delivered,Debit Card
+1582,761,2024-08-29,2830.59,Processing,Debit Card
+1583,68,2024-06-07,1007.38,Processing,Cash on Delivery
+1584,888,2024-11-16,1960.0,Cancelled,Cash on Delivery
+1585,705,2024-03-27,2796.03,Shipped,Cash on Delivery
+1586,909,2024-10-25,596.77,Processing,Cash on Delivery
+1587,415,2024-03-23,1479.01,Pending,Cash on Delivery
+1588,738,2023-12-20,1438.24,Shipped,Cash on Delivery
+1589,627,2024-07-27,5178.88,Cancelled,Credit Card
+1590,534,2024-07-09,1397.72,Pending,Cash on Delivery
+1591,468,2023-08-05,2429.04,Pending,Debit Card
+1592,532,2024-11-28,49.24,Cancelled,Cash on Delivery
+1593,753,2024-05-10,2321.45,Pending,Cash on Delivery
+1594,529,2024-11-27,1203.35,Pending,Debit Card
+1595,299,2023-06-08,1099.63,Delivered,Cash on Delivery
+1596,906,2023-06-22,901.34,Shipped,PayPal
+1597,473,2023-03-18,2079.45,Processing,Cash on Delivery
+1598,302,2024-05-08,570.2,Cancelled,Credit Card
+1599,707,2024-03-03,1718.87,Cancelled,Debit Card
+1600,475,2024-06-11,4783.66,Delivered,Credit Card
+1601,740,2024-10-14,408.19,Cancelled,Credit Card
+1602,185,2024-07-29,3481.55,Cancelled,Debit Card
+1603,403,2024-06-02,1389.47,Delivered,PayPal
+1604,462,2024-11-06,955.95,Pending,Debit Card
+1605,465,2024-11-21,3969.33,Cancelled,Debit Card
+1606,904,2024-05-24,2698.21,Delivered,Credit Card
+1607,257,2024-11-19,1710.66,Shipped,Debit Card
+1608,736,2024-11-24,2705.44,Pending,Credit Card
+1609,117,2024-05-23,3351.68,Delivered,PayPal
+1610,88,2024-11-04,1394.08,Cancelled,Cash on Delivery
+1611,745,2023-04-14,2381.29,Cancelled,Debit Card
+1612,388,2024-08-27,990.31,Cancelled,Cash on Delivery
+1613,45,2024-09-15,369.55,Processing,PayPal
+1614,580,2024-06-21,1362.05,Processing,Debit Card
+1615,890,2024-05-31,147.57,Processing,Debit Card
+1616,788,2024-09-26,1987.16,Pending,Cash on Delivery
+1617,316,2024-02-18,1749.76,Shipped,Cash on Delivery
+1618,296,2024-08-04,2372.72,Processing,Credit Card
+1619,921,2024-09-23,2557.69,Processing,Debit Card
+1620,4,2024-08-27,2273.88,Cancelled,PayPal
+1621,13,2024-02-09,1753.21,Delivered,Cash on Delivery
+1622,876,2023-10-05,1182.17,Delivered,Credit Card
+1623,623,2023-12-24,526.14,Delivered,Debit Card
+1624,223,2024-05-09,1445.61,Cancelled,Cash on Delivery
+1625,465,2024-11-22,597.35,Delivered,Cash on Delivery
+1626,82,2024-09-13,809.94,Cancelled,Credit Card
+1627,251,2024-11-25,1956.32,Cancelled,PayPal
+1628,635,2024-09-07,1122.99,Cancelled,Debit Card
+1629,51,2024-10-15,1599.94,Processing,Debit Card
+1630,57,2024-07-26,4594.78,Shipped,Credit Card
+1631,149,2024-10-28,870.85,Pending,PayPal
+1632,340,2024-07-11,494.26,Pending,Credit Card
+1633,112,2024-11-18,2746.17,Delivered,Debit Card
+1634,166,2024-10-24,2514.71,Shipped,Debit Card
+1635,990,2024-08-29,2707.59,Delivered,PayPal
+1636,954,2024-09-30,1521.34,Pending,Credit Card
+1637,787,2024-06-30,1294.62,Shipped,PayPal
+1638,378,2023-10-09,1241.09,Delivered,Credit Card
+1639,777,2024-08-31,1099.86,Delivered,Credit Card
+1640,300,2023-08-17,910.6,Delivered,Debit Card
+1641,125,2024-11-22,596.18,Shipped,PayPal
+1642,540,2023-12-11,1787.32,Delivered,Debit Card
+1643,713,2024-11-24,2328.56,Processing,Credit Card
+1644,112,2024-09-18,2132.45,Cancelled,Credit Card
+1645,496,2023-04-13,434.16,Cancelled,PayPal
+1646,438,2024-05-06,2222.39,Cancelled,PayPal
+1647,266,2024-07-10,895.24,Cancelled,PayPal
+1648,950,2023-11-27,1893.5,Processing,Cash on Delivery
+1649,533,2024-01-15,287.5,Delivered,Cash on Delivery
+1650,828,2023-04-03,3290.21,Processing,Debit Card
+1651,726,2024-10-23,1195.44,Shipped,Debit Card
+1652,2,2024-05-14,760.06,Pending,Credit Card
+1653,477,2023-09-27,314.91,Pending,Debit Card
+1654,819,2024-06-26,2078.54,Cancelled,Cash on Delivery
+1655,424,2024-11-25,1866.64,Pending,PayPal
+1656,359,2024-09-20,1447.31,Cancelled,Debit Card
+1657,12,2024-08-19,1045.66,Processing,PayPal
+1658,261,2023-09-11,756.61,Pending,PayPal
+1659,308,2024-10-14,168.35,Cancelled,PayPal
+1660,786,2023-10-18,2087.17,Pending,Credit Card
+1661,703,2024-11-18,3587.37,Shipped,PayPal
+1662,406,2024-10-23,170.88,Cancelled,Credit Card
+1663,853,2024-11-19,2152.17,Processing,Debit Card
+1664,339,2024-11-03,1447.77,Shipped,Cash on Delivery
+1665,939,2023-10-23,831.75,Delivered,Credit Card
+1666,662,2024-11-22,3348.39,Processing,Cash on Delivery
+1667,160,2023-07-20,1364.14,Delivered,PayPal
+1668,474,2024-03-24,1855.7,Delivered,Credit Card
+1669,856,2024-11-25,731.32,Cancelled,PayPal
+1670,579,2024-04-24,153.42,Shipped,Credit Card
+1671,214,2024-09-28,3838.27,Cancelled,PayPal
+1672,819,2023-10-06,2579.44,Shipped,Credit Card
+1673,993,2023-10-11,3152.61,Processing,PayPal
+1674,861,2024-08-08,530.7,Pending,PayPal
+1675,385,2024-11-08,3765.94,Cancelled,Debit Card
+1676,585,2024-07-17,2129.9,Cancelled,Cash on Delivery
+1677,192,2024-11-10,94.31,Cancelled,Credit Card
+1678,886,2024-03-14,1457.25,Shipped,PayPal
+1679,727,2024-11-09,916.1,Pending,PayPal
+1680,424,2024-03-21,4405.81,Pending,Cash on Delivery
+1681,899,2024-11-19,3175.13,Processing,PayPal
+1682,463,2024-07-22,3065.12,Shipped,Debit Card
+1683,538,2024-11-09,3626.2,Shipped,Debit Card
+1684,115,2024-05-19,1901.2,Shipped,Credit Card
+1685,797,2024-11-07,628.38,Processing,Credit Card
+1686,455,2024-04-05,1026.8,Cancelled,Credit Card
+1687,819,2023-08-31,2168.48,Delivered,Debit Card
+1688,195,2023-07-30,2321.68,Shipped,Cash on Delivery
+1689,751,2024-08-05,2714.2,Cancelled,PayPal
+1690,795,2024-02-07,333.95,Shipped,Debit Card
+1691,788,2024-08-19,1440.88,Pending,Debit Card
+1692,211,2024-09-15,1616.54,Pending,Cash on Delivery
+1693,397,2024-08-22,410.81,Cancelled,Credit Card
+1694,5,2024-09-17,1800.05,Shipped,Credit Card
+1695,704,2024-06-13,1242.25,Cancelled,Credit Card
+1696,342,2024-10-28,86.45,Delivered,Credit Card
+1697,106,2023-12-22,1456.89,Cancelled,PayPal
+1698,24,2024-08-14,372.73,Cancelled,PayPal
+1699,655,2024-04-18,3564.12,Processing,PayPal
+1700,206,2024-11-25,1651.8,Processing,PayPal
+1701,284,2024-06-09,1348.16,Cancelled,PayPal
+1702,792,2024-05-19,672.7,Delivered,Credit Card
+1703,280,2023-07-12,1992.25,Processing,Debit Card
+1704,281,2024-10-10,1250.96,Pending,Credit Card
+1705,982,2023-08-16,527.52,Cancelled,Credit Card
+1706,212,2023-11-04,1758.5,Cancelled,PayPal
+1707,563,2024-10-02,1788.35,Shipped,PayPal
+1708,145,2024-11-26,924.44,Shipped,Debit Card
+1709,176,2024-11-27,2740.88,Pending,PayPal
+1710,628,2024-04-17,412.59,Shipped,Cash on Delivery
+1711,52,2024-05-28,6207.18,Processing,Credit Card
+1712,483,2024-11-10,548.06,Pending,Credit Card
+1713,393,2024-08-11,1754.77,Pending,Credit Card
+1714,437,2023-10-20,2795.08,Delivered,Debit Card
+1715,722,2024-08-07,920.46,Cancelled,Cash on Delivery
+1716,632,2024-11-17,1534.46,Shipped,PayPal
+1717,341,2024-04-22,5866.05,Processing,Credit Card
+1718,998,2024-09-21,207.58,Delivered,Debit Card
+1719,96,2023-11-30,1633.72,Delivered,Credit Card
+1720,467,2024-05-03,824.59,Shipped,Cash on Delivery
+1721,482,2024-07-18,4759.57,Processing,Debit Card
+1722,148,2024-06-13,5474.77,Cancelled,PayPal
+1723,935,2024-09-22,423.42,Shipped,Cash on Delivery
+1724,188,2024-09-06,2510.06,Shipped,PayPal
+1725,465,2024-11-14,226.9,Delivered,Credit Card
+1726,67,2024-08-25,1260.09,Delivered,Credit Card
+1727,360,2023-12-06,2664.34,Delivered,Cash on Delivery
+1728,867,2024-07-15,699.05,Processing,PayPal
+1729,787,2024-07-16,1765.64,Shipped,Debit Card
+1730,521,2024-01-31,2082.39,Pending,Cash on Delivery
+1731,838,2023-12-10,1527.24,Pending,PayPal
+1732,570,2024-09-06,1258.64,Pending,PayPal
+1733,546,2024-09-04,1986.6,Delivered,Cash on Delivery
+1734,605,2024-10-08,1956.09,Delivered,Debit Card
+1735,636,2024-11-24,872.76,Processing,Debit Card
+1736,998,2024-05-18,4385.06,Delivered,Cash on Delivery
+1737,68,2024-10-06,1497.21,Shipped,Debit Card
+1738,834,2024-09-12,389.73,Cancelled,Cash on Delivery
+1739,804,2024-03-16,2160.44,Delivered,PayPal
+1740,558,2024-11-29,2715.71,Processing,Debit Card
+1741,679,2024-06-18,556.52,Pending,Cash on Delivery
+1742,118,2024-01-25,1394.71,Cancelled,Cash on Delivery
+1743,334,2023-05-19,4660.02,Cancelled,Credit Card
+1744,842,2024-09-13,2652.16,Delivered,Debit Card
+1745,316,2024-10-05,3376.92,Delivered,Credit Card
+1746,613,2023-12-31,2529.45,Pending,Cash on Delivery
+1747,336,2024-09-29,3365.97,Delivered,Credit Card
+1748,93,2024-11-04,1590.4,Processing,Debit Card
+1749,909,2024-10-04,1909.08,Cancelled,Credit Card
+1750,776,2024-04-30,445.29,Processing,Debit Card
+1751,464,2024-08-10,2372.8,Cancelled,PayPal
+1752,400,2023-12-26,1482.4,Cancelled,Cash on Delivery
+1753,201,2023-10-01,385.95,Processing,PayPal
+1754,307,2024-08-20,1733.68,Cancelled,PayPal
+1755,941,2023-09-07,915.51,Delivered,PayPal
+1756,92,2024-08-13,930.22,Cancelled,Credit Card
+1757,627,2024-07-03,3494.32,Cancelled,Cash on Delivery
+1758,868,2024-09-05,435.58,Processing,PayPal
+1759,64,2023-12-08,2147.18,Shipped,Credit Card
+1760,1,2024-11-20,3170.4,Cancelled,PayPal
+1761,113,2024-05-18,1723.75,Shipped,Credit Card
+1762,241,2024-11-12,1431.42,Delivered,Cash on Delivery
+1763,641,2023-12-12,1226.58,Shipped,Cash on Delivery
+1764,416,2024-08-31,1142.09,Delivered,Cash on Delivery
+1765,559,2023-10-22,2784.13,Processing,Debit Card
+1766,487,2024-11-03,970.8,Processing,Debit Card
+1767,569,2024-06-14,1818.96,Delivered,PayPal
+1768,861,2024-10-30,3297.55,Delivered,Debit Card
+1769,296,2024-09-03,2141.73,Processing,Debit Card
+1770,12,2024-03-14,498.98,Pending,Credit Card
+1771,148,2024-03-03,2646.26,Delivered,Cash on Delivery
+1772,999,2023-10-30,3024.88,Processing,Credit Card
+1773,141,2023-03-31,2155.64,Delivered,Cash on Delivery
+1774,916,2024-06-17,660.63,Cancelled,Cash on Delivery
+1775,639,2024-08-09,2867.33,Processing,Cash on Delivery
+1776,522,2023-12-30,2820.2,Delivered,Cash on Delivery
+1777,394,2024-10-19,856.61,Shipped,Debit Card
+1778,191,2024-07-16,3297.85,Delivered,Credit Card
+1779,592,2024-10-30,383.13,Delivered,Debit Card
+1780,730,2024-01-13,813.56,Cancelled,PayPal
+1781,421,2024-08-14,2123.84,Cancelled,PayPal
+1782,35,2023-10-18,856.43,Pending,Cash on Delivery
+1783,722,2024-10-10,4678.9,Shipped,Credit Card
+1784,595,2024-04-07,1346.74,Delivered,Credit Card
+1785,146,2023-11-02,2193.78,Cancelled,PayPal
+1786,477,2023-08-16,3493.02,Cancelled,Credit Card
+1787,536,2024-05-02,1031.24,Cancelled,Credit Card
+1788,252,2024-06-08,2005.66,Delivered,Credit Card
+1789,701,2024-01-28,4917.24,Cancelled,PayPal
+1790,628,2024-09-21,2891.87,Pending,PayPal
+1791,548,2024-08-30,256.9,Pending,Cash on Delivery
+1792,465,2024-11-09,1977.88,Cancelled,Cash on Delivery
+1793,588,2024-03-22,3243.34,Shipped,Cash on Delivery
+1794,362,2024-05-18,867.34,Shipped,PayPal
+1795,172,2024-10-29,1326.42,Pending,PayPal
+1796,745,2024-10-23,1042.92,Cancelled,PayPal
+1797,63,2024-08-07,2377.91,Delivered,Debit Card
+1798,587,2023-05-26,1532.96,Pending,PayPal
+1799,829,2024-02-10,403.29,Cancelled,Credit Card
+1800,294,2024-03-13,1239.0,Delivered,Credit Card
+1801,130,2024-10-16,2934.85,Cancelled,Credit Card
+1802,872,2023-05-22,123.21,Shipped,PayPal
+1803,136,2024-06-07,2852.52,Cancelled,PayPal
+1804,282,2024-01-01,1918.83,Shipped,Credit Card
+1805,760,2024-10-27,1113.97,Pending,Debit Card
+1806,932,2023-09-09,3103.55,Cancelled,Debit Card
+1807,675,2024-11-09,1415.22,Delivered,PayPal
+1808,828,2023-05-13,3253.24,Processing,PayPal
+1809,802,2024-01-22,2185.28,Processing,Cash on Delivery
+1810,186,2024-05-13,3620.63,Cancelled,Credit Card
+1811,352,2024-02-01,673.32,Pending,Debit Card
+1812,610,2024-09-21,1775.1,Processing,Cash on Delivery
+1813,771,2023-08-13,939.69,Delivered,Cash on Delivery
+1814,244,2024-10-18,731.26,Delivered,Debit Card
+1815,216,2024-04-11,1914.65,Cancelled,PayPal
+1816,56,2024-09-29,343.71,Shipped,Credit Card
+1817,54,2024-04-18,1881.32,Processing,Cash on Delivery
+1818,409,2024-11-17,840.6,Delivered,PayPal
+1819,488,2024-05-13,1352.14,Cancelled,Debit Card
+1820,389,2024-08-05,1751.56,Delivered,Cash on Delivery
+1821,269,2024-10-06,799.32,Processing,Cash on Delivery
+1822,13,2024-10-13,6217.29,Shipped,Cash on Delivery
+1823,392,2023-09-30,1277.3,Shipped,Credit Card
+1824,100,2023-11-12,2100.48,Cancelled,PayPal
+1825,980,2024-04-08,1606.35,Delivered,PayPal
+1826,344,2024-04-27,1369.61,Shipped,PayPal
+1827,822,2024-08-01,46.71,Pending,PayPal
+1828,671,2024-11-27,2440.02,Cancelled,Cash on Delivery
+1829,473,2024-09-03,1568.8,Processing,Debit Card
+1830,533,2023-06-03,2405.23,Shipped,Debit Card
+1831,321,2023-10-23,1510.04,Cancelled,Credit Card
+1832,689,2024-09-12,1019.24,Pending,Credit Card
+1833,13,2024-04-17,271.82,Delivered,Credit Card
+1834,538,2024-06-20,1977.77,Pending,Cash on Delivery
+1835,360,2024-04-17,5146.03,Processing,PayPal
+1836,258,2024-07-17,10.56,Processing,Credit Card
+1837,25,2023-08-08,1282.56,Cancelled,Credit Card
+1838,59,2023-10-20,1074.1,Cancelled,Debit Card
+1839,974,2024-07-27,3133.39,Cancelled,Credit Card
+1840,726,2024-11-26,2520.56,Pending,Credit Card
+1841,877,2024-08-14,3252.23,Cancelled,Debit Card
+1842,385,2023-12-16,2122.51,Cancelled,Debit Card
+1843,918,2024-10-15,6959.71,Pending,Debit Card
+1844,260,2024-06-08,6331.94,Shipped,Cash on Delivery
+1845,677,2024-04-19,2283.98,Pending,Cash on Delivery
+1846,945,2024-04-23,1941.9,Shipped,Cash on Delivery
+1847,709,2024-10-19,1030.32,Shipped,PayPal
+1848,166,2024-11-16,490.0,Pending,PayPal
+1849,796,2024-09-24,873.7,Pending,Cash on Delivery
+1850,398,2024-06-02,964.4,Shipped,Credit Card
+1851,265,2024-11-27,4683.08,Shipped,Debit Card
+1852,452,2024-09-09,2710.47,Pending,Cash on Delivery
+1853,951,2024-11-03,5564.65,Processing,Cash on Delivery
+1854,183,2024-11-25,770.7,Delivered,Credit Card
+1855,148,2024-11-25,2771.45,Cancelled,Cash on Delivery
+1856,224,2024-10-27,2195.72,Cancelled,Credit Card
+1857,935,2024-01-28,1346.4,Delivered,PayPal
+1858,106,2024-07-20,1642.53,Pending,Credit Card
+1859,73,2024-03-15,383.24,Cancelled,PayPal
+1860,796,2024-05-23,2885.75,Delivered,Credit Card
+1861,919,2024-11-29,963.0,Delivered,Debit Card
+1862,669,2024-04-06,1807.27,Pending,Credit Card
+1863,681,2024-09-29,2501.38,Delivered,PayPal
+1864,156,2024-03-16,1327.64,Shipped,Cash on Delivery
+1865,589,2024-09-13,336.6,Pending,Cash on Delivery
+1866,490,2024-07-31,771.57,Delivered,Cash on Delivery
+1867,865,2023-11-16,2801.37,Pending,Debit Card
+1868,4,2024-08-13,3524.75,Delivered,Cash on Delivery
+1869,125,2024-11-15,2339.09,Cancelled,PayPal
+1870,342,2023-12-29,885.65,Shipped,Cash on Delivery
+1871,57,2024-11-10,286.71,Pending,PayPal
+1872,548,2024-05-22,243.17,Shipped,Credit Card
+1873,862,2024-11-19,1507.58,Delivered,PayPal
+1874,664,2024-11-25,2841.45,Processing,Debit Card
+1875,568,2024-06-14,2264.5,Pending,Cash on Delivery
+1876,677,2024-01-23,1874.3,Processing,PayPal
+1877,713,2023-10-13,3326.38,Delivered,Credit Card
+1878,646,2024-10-25,3922.02,Shipped,Cash on Delivery
+1879,87,2024-10-17,941.0,Delivered,Debit Card
+1880,144,2023-11-15,788.43,Pending,Debit Card
+1881,26,2024-08-22,1194.07,Cancelled,Debit Card
+1882,501,2023-11-23,481.81,Delivered,Credit Card
+1883,812,2024-06-02,3729.32,Cancelled,PayPal
+1884,512,2024-09-11,2939.6,Cancelled,Cash on Delivery
+1885,990,2023-09-17,2120.16,Pending,Credit Card
+1886,348,2024-07-28,2619.64,Pending,PayPal
+1887,807,2024-11-15,588.33,Pending,Cash on Delivery
+1888,122,2024-11-21,4473.43,Processing,Cash on Delivery
+1889,963,2024-08-15,4267.53,Cancelled,Debit Card
+1890,759,2024-04-18,2956.29,Cancelled,Debit Card
+1891,948,2023-04-09,463.15,Pending,Credit Card
+1892,754,2024-08-22,1473.64,Processing,Cash on Delivery
+1893,670,2024-04-19,2090.26,Pending,Cash on Delivery
+1894,929,2024-07-07,5261.49,Cancelled,Credit Card
+1895,249,2023-04-26,3537.28,Processing,Credit Card
+1896,177,2024-09-27,3936.7,Pending,PayPal
+1897,841,2024-04-21,1531.63,Pending,Cash on Delivery
+1898,626,2024-10-31,1418.39,Processing,Credit Card
+1899,838,2024-01-17,1571.18,Pending,Credit Card
+1900,510,2024-11-17,3499.86,Cancelled,Debit Card
+1901,65,2024-04-21,2898.53,Processing,Cash on Delivery
+1902,346,2024-01-14,904.62,Delivered,PayPal
+1903,124,2023-11-03,1779.4,Cancelled,Debit Card
+1904,330,2024-10-18,2452.74,Processing,Credit Card
+1905,608,2024-09-29,1505.15,Processing,PayPal
+1906,65,2024-09-15,3067.5,Pending,PayPal
+1907,145,2024-11-16,738.61,Delivered,Debit Card
+1908,714,2023-06-04,2421.74,Shipped,Debit Card
+1909,450,2023-12-10,318.95,Processing,Credit Card
+1910,137,2024-09-06,1627.9,Pending,Cash on Delivery
+1911,797,2024-09-12,1520.78,Processing,Credit Card
+1912,901,2024-08-03,1151.95,Delivered,Credit Card
+1913,7,2023-12-26,3007.08,Pending,Debit Card
+1914,949,2024-04-15,2791.88,Pending,PayPal
+1915,427,2024-09-06,4140.14,Delivered,Debit Card
+1916,212,2024-06-08,3922.32,Processing,PayPal
+1917,536,2023-02-11,192.66,Delivered,Cash on Delivery
+1918,245,2024-08-13,2613.66,Processing,Credit Card
+1919,611,2024-05-07,767.22,Processing,Cash on Delivery
+1920,627,2024-11-19,3161.68,Pending,PayPal
+1921,357,2024-02-05,5311.24,Delivered,Credit Card
+1922,572,2024-11-11,1414.5,Processing,Debit Card
+1923,121,2024-06-28,611.16,Cancelled,Credit Card
+1924,634,2024-11-28,434.82,Shipped,Debit Card
+1925,476,2024-05-11,2316.14,Processing,PayPal
+1926,55,2024-02-12,2064.45,Processing,Credit Card
+1927,816,2023-07-21,124.76,Processing,Cash on Delivery
+1928,510,2024-11-23,134.28,Processing,Debit Card
+1929,687,2024-03-19,5331.2,Pending,Credit Card
+1930,661,2023-04-23,2222.54,Shipped,PayPal
+1931,215,2023-05-18,646.32,Delivered,PayPal
+1932,343,2024-10-13,1840.74,Cancelled,Cash on Delivery
+1933,45,2023-12-10,43.35,Pending,Credit Card
+1934,948,2024-03-10,4079.19,Cancelled,Debit Card
+1935,162,2024-07-26,1158.61,Pending,Cash on Delivery
+1936,528,2024-10-21,2125.85,Pending,Credit Card
+1937,917,2024-05-17,926.83,Processing,Cash on Delivery
+1938,607,2024-10-24,2907.25,Cancelled,PayPal
+1939,430,2024-11-06,217.17,Processing,PayPal
+1940,236,2024-11-08,2795.24,Pending,PayPal
+1941,234,2024-10-21,1274.79,Pending,Debit Card
+1942,756,2024-11-19,5200.33,Delivered,Debit Card
+1943,385,2024-07-23,2215.72,Processing,Credit Card
+1944,483,2024-11-07,1274.11,Cancelled,Cash on Delivery
+1945,56,2024-03-13,322.64,Delivered,Debit Card
+1946,222,2024-04-12,2141.56,Cancelled,Cash on Delivery
+1947,183,2024-09-25,2525.75,Delivered,PayPal
+1948,140,2024-03-20,2560.97,Delivered,Debit Card
+1949,648,2023-06-03,4848.83,Shipped,PayPal
+1950,208,2024-10-23,941.53,Shipped,Debit Card
+1951,33,2024-05-28,1611.72,Cancelled,Credit Card
+1952,288,2023-09-27,3305.6,Processing,Credit Card
+1953,873,2024-06-12,1289.72,Delivered,Cash on Delivery
+1954,429,2023-04-30,521.92,Processing,PayPal
+1955,226,2023-09-29,125.01,Shipped,Debit Card
+1956,809,2024-02-25,164.55,Cancelled,Debit Card
+1957,592,2024-10-24,1528.14,Cancelled,Debit Card
+1958,89,2024-05-22,1484.51,Delivered,Cash on Delivery
+1959,883,2024-06-29,1575.92,Processing,Cash on Delivery
+1960,858,2024-11-13,1798.43,Delivered,PayPal
+1961,15,2024-10-24,2420.66,Delivered,Debit Card
+1962,254,2024-04-29,2419.64,Shipped,Cash on Delivery
+1963,594,2024-06-09,3422.2,Processing,Debit Card
+1964,936,2024-04-18,3230.8,Cancelled,Credit Card
+1965,428,2024-05-20,4659.08,Pending,Credit Card
+1966,482,2024-10-17,1384.68,Cancelled,Credit Card
+1967,436,2024-11-29,1497.64,Cancelled,Cash on Delivery
+1968,491,2024-08-05,1912.9,Pending,Cash on Delivery
+1969,508,2023-03-28,955.88,Processing,Credit Card
+1970,572,2023-09-04,3234.76,Pending,Cash on Delivery
+1971,973,2024-02-23,3207.21,Processing,Debit Card
+1972,368,2024-02-26,1464.67,Shipped,Debit Card
+1973,664,2024-09-05,4133.62,Pending,Credit Card
+1974,492,2024-07-25,2060.07,Shipped,Debit Card
+1975,721,2024-11-22,957.7,Delivered,Credit Card
+1976,1000,2024-10-11,1856.18,Delivered,Cash on Delivery
+1977,791,2024-11-25,4463.6,Processing,Cash on Delivery
+1978,190,2024-05-23,2812.04,Shipped,Cash on Delivery
+1979,721,2024-05-05,785.88,Pending,Credit Card
+1980,395,2024-05-14,149.11,Shipped,Credit Card
+1981,304,2024-07-21,379.78,Delivered,PayPal
+1982,715,2024-10-05,1087.99,Cancelled,Debit Card
+1983,807,2024-09-21,589.88,Pending,PayPal
+1984,754,2024-04-26,1361.81,Pending,PayPal
+1985,910,2024-11-07,683.68,Pending,Credit Card
+1986,393,2024-09-21,594.81,Shipped,Cash on Delivery
+1987,634,2024-11-14,150.2,Pending,PayPal
+1988,376,2024-11-13,1568.95,Processing,Credit Card
+1989,575,2024-11-28,2029.95,Processing,Debit Card
+1990,343,2024-11-20,315.4,Processing,Credit Card
+1991,665,2024-11-11,6145.87,Delivered,Debit Card
+1992,772,2024-04-30,2624.36,Processing,PayPal
+1993,362,2024-03-31,3223.95,Shipped,Cash on Delivery
+1994,284,2024-05-27,163.18,Pending,Credit Card
+1995,382,2024-07-23,1813.68,Shipped,Cash on Delivery
+1996,498,2024-04-30,4658.97,Cancelled,Credit Card
+1997,482,2024-07-22,3078.31,Cancelled,PayPal
+1998,463,2024-08-14,1913.47,Cancelled,PayPal
+1999,820,2023-06-22,1016.85,Pending,Debit Card
+2000,914,2024-06-12,605.57,Delivered,Credit Card

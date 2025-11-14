@@ -1,0 +1,8 @@
+Please ensure the following when working in this repository:
+
+1. Write clean, well-documented Python code that includes type hints.
+2. Follow PEP 8 style guidelines throughout the codebase.
+3. Include robust error handling for all database operations.
+4. Add descriptive comments wherever the logic becomes complex or non-obvious.
+5. Use meaningful, self-explanatory variable and function names.
+6. Structure code in a modular way to keep components cohesive and maintainable.
