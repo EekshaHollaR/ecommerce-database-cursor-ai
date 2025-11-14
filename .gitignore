@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Database files
+ecommerce.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Results and generated data (can be regenerated)
+data/
+results/
+
